@@ -85,22 +85,22 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 
 ## About Me
 
-<table>
+<table style="border: none;">
 <tr>
-<th><img width="600" height="1"></th>
-<th><img width="200" height="1"></th>
+<th style="border: none;"><img width="600" height="1"></th>
+<th style="border: none;"><img width="200" height="1"></th>
 </tr>
 <tr>
-<td>
+<td style="border: none;">
 
 **ML Engineer (Consultant)**<br/>
 *Mid sized European E-commerce marketplace*
 
 </td>
-<td align="right">
+<td align="right" style="border: none;">
 
 **Aug 2022 - Oct 2025**<br/>
-*Remote - Europe*
+*Remote*
 
 </td>
 </tr>
@@ -133,19 +133,19 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
   - Improved product page engagement
   - [View Details](past-experiences/ecom_reviews_summarisation.md)
 
-<table>
+<table style="border: none;">
 <tr>
-<th><img width="600" height="1"></th>
-<th><img width="200" height="1"></th>
+<th style="border: none;"><img width="600" height="1"></th>
+<th style="border: none;"><img width="200" height="1"></th>
 </tr>
 <tr>
-<td>
+<td style="border: none;">
 
 **ML Engineer**<br/>
 *[eSMART Technologies](https://myesmart.com/en/)*
 
 </td>
-<td align="right">
+<td align="right" style="border: none;">
 
 **Jun 2018 - Dec 2020**<br/>
 *Remote*
@@ -168,19 +168,19 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
   - ~10pp increase in solar self-consumption among participating households
   - [View Details](past-experiences/iot_forecasting.md)
 
-<table>
+<table style="border: none;">
 <tr>
-<th><img width="600" height="1"></th>
-<th><img width="200" height="1"></th>
+<th style="border: none;"><img width="600" height="1"></th>
+<th style="border: none;"><img width="200" height="1"></th>
 </tr>
 <tr>
-<td>
+<td style="border: none;">
 
 **[Master of Science in Communication Systems](past-experiences/masters.md)**<br/>
 *[EPFL (Ecole polytechnique federale de Lausanne)](https://www.epfl.ch/en/)*
 
 </td>
-<td align="right">
+<td align="right" style="border: none;">
 
 **Sep 2015 - May 2018**<br/>
 *Lausanne, Switzerland*
@@ -194,19 +194,19 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 - Grade: 5.25 / 6.0
 - [View Details](past-experiences/masters.md)
 
-<table>
+<table style="border: none;">
 <tr>
-<th><img width="600" height="1"></th>
-<th><img width="200" height="1"></th>
+<th style="border: none;"><img width="600" height="1"></th>
+<th style="border: none;"><img width="200" height="1"></th>
 </tr>
 <tr>
-<td>
+<td style="border: none;">
 
 **[Machine Learning Research Intern](past-experiences/nec.md)**<br/>
 *[NEC Labs America](https://www.nec-labs.com/)*
 
 </td>
-<td align="right">
+<td align="right" style="border: none;">
 
 **Feb 2017 - Jul 2017**<br/>
 *Princeton, NJ, USA*
@@ -220,19 +220,19 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 - Applied transfer learning techniques for domain-specific object detection
 - [View Details](past-experiences/nec.md)
 
-<table>
+<table style="border: none;">
 <tr>
-<th><img width="600" height="1"></th>
-<th><img width="200" height="1"></th>
+<th style="border: none;"><img width="600" height="1"></th>
+<th style="border: none;"><img width="200" height="1"></th>
 </tr>
 <tr>
-<td>
+<td style="border: none;">
 
 **[Signal Processing Engineer](past-experiences/signalchip.md)**<br/>
 *[Signalchip Innovations](https://www.signalchip.com/)*
 
 </td>
-<td align="right">
+<td align="right" style="border: none;">
 
 **Mar 2012 - May 2015**<br/>
 *Bangalore, India*
@@ -248,19 +248,19 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 - Developed PRACH signal detection algorithms for LTE systems
 - [View Details](past-experiences/signalchip.md)
 
-<table>
+<table style="border: none;">
 <tr>
-<th><img width="600" height="1"></th>
-<th><img width="200" height="1"></th>
+<th style="border: none;"><img width="600" height="1"></th>
+<th style="border: none;"><img width="200" height="1"></th>
 </tr>
 <tr>
-<td>
+<td style="border: none;">
 
 **[Junior Research Fellow](past-experiences/iisc.md)**<br/>
 *[Indian Institute of Science](https://www.iisc.ac.in/)*
 
 </td>
-<td align="right">
+<td align="right" style="border: none;">
 
 **Jun 2011 - Feb 2012**<br/>
 *Bangalore, India*
@@ -275,19 +275,19 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 - Implemented efficient algorithms achieving 20% higher independent measurements than traditional methods
 - [View Details](past-experiences/iisc.md)
 
-<table>
+<table style="border: none;">
 <tr>
-<th><img width="600" height="1"></th>
-<th><img width="200" height="1"></th>
+<th style="border: none;"><img width="600" height="1"></th>
+<th style="border: none;"><img width="200" height="1"></th>
 </tr>
 <tr>
-<td>
+<td style="border: none;">
 
 **[Bachelor of Engineering in Electronics and Communication](past-experiences/bachelors.md)**<br/>
 *[RVCE (R.V. College of Engineering)](https://rvce.edu.in/)*
 
 </td>
-<td align="right">
+<td align="right" style="border: none;">
 
 **Aug 2007 - May 2011**<br/>
 *Bangalore, India*
