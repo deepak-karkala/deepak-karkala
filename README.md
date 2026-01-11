@@ -77,91 +77,139 @@ Senior Machine Learning Engineer with 6 years delivering production ML + GenAI s
 - [DriftCity: Statistics for MLOps](illustrated-guides/stats-for-mlops.md) - An interactive educational platform that transforms how teams learn MLOps statistics by combining narrative storytelling, live visualizations, and production patterns.
 
 ## About Me
-### RAG-Powered Search & Discovery
-- **Role:** Consultant ML Engineer
-- **Company/Institution:** Consultant ML Engineer for mid sized European E-commerce marketplace
-- **Date:** Sep 2023
-- **Summary:** Built a production-grade RAG system that improved search-to-purchase conversion by 4% and reduced "no results" by 30%
+<hr/>
+<table>
+  <tr>
+    <td><strong>Consultant ML Engineer</strong><br/>Consultant ML Engineer for mid sized European E-commerce marketplace</td>
+    <td align="right"><strong>Aug 2022 - Oct 2025</strong><br/><em>Remote - Europe</em></td>
+  </tr>
+</table>
+- 4% improvement in search-to-purchase conversion
+- 30% reduction in "no results found" searches
+- Sub-500ms p99 latency at scale
+- ~0.1 cents/query inference cost with 5x ROI
 - [View Details](past-experiences/ecom_rag_product_catalog.md)
 
-### Customer Lifetime Value (CLV) Prediction
-<img src="past-experiences/logos/ecommerce.png" align="right" width="70" alt="Customer Lifetime Value (CLV) Prediction logo" />
-
-- **Role:** Consultant ML Engineer
-- **Company/Institution:** Consultant ML Engineer for mid sized European E-commerce marketplace
-- **Date:** Jun 2023
-- **Summary:** Built a production CLV prediction system that improved marketing ROI by 12% through value-based customer targeting and segmentation
+<hr/>
+<table>
+  <tr>
+    <td><strong>Consultant ML Engineer</strong><br/>Consultant ML Engineer for mid sized European E-commerce marketplace</td>
+    <td align="right"><strong>Aug 2022 - Oct 2025</strong><br/><em>Remote - Europe</em></td>
+  </tr>
+</table>
+- 12% higher marketing ROI on CLV-driven campaigns
+- 10% relative reduction in churn among high-value cohorts
+- 7% uplift in conversion rates for CLV-based campaigns
+- Weekly batch inference costing only EUR75/month
 - [View Details](past-experiences/ecom_customer_lifetime_value.md)
 
-### Real-Time Purchase Intent Scoring
-- **Role:** Consultant ML Engineer
-- **Company/Institution:** Consultant ML Engineer for mid sized European E-commerce marketplace
-- **Date:** Mar 2023
-- **Summary:** Deployed a session-level purchase propensity model achieving 5% conversion uplift with 40% reduction in p99 latency through Redis optimization
+<hr/>
+<table>
+  <tr>
+    <td><strong>Consultant ML Engineer</strong><br/>Consultant ML Engineer for mid sized European E-commerce marketplace</td>
+    <td align="right"><strong>Aug 2022 - Oct 2025</strong><br/><em>Remote - Europe</em></td>
+  </tr>
+</table>
+- 5% relative uplift in overall conversion rate
+- 3.5% uplift in AOV among users with model-driven offers
+- 40% reduction in p99 inference latency through Redis optimization
+- Real-time feature engineering with Spark Structured Streaming
 - [View Details](past-experiences/ecom_purchase_propensity.md)
 
-### LLM Generated Review Summaries
-- **Role:** Consultant ML Engineer
-- **Company/Institution:** Consultant ML Engineer for mid sized European E-commerce marketplace
-- **Date:** Jan 2023
-- **Summary:** Implemented automated review summarisation using LLMs to surface key insights and sentiment for shoppers
+<hr/>
+<table>
+  <tr>
+    <td><strong>Consultant ML Engineer</strong><br/>Consultant ML Engineer for mid sized European E-commerce marketplace</td>
+    <td align="right"><strong>Aug 2022 - Oct 2025</strong><br/><em>Remote - Europe</em></td>
+  </tr>
+</table>
+- Automated summarisation of product reviews
+- Extracted key sentiment and feature insights
+- Improved product page engagement
 - [View Details](past-experiences/ecom_reviews_summarisation.md)
 
-### IoT Predictive Maintenance & Heating System Anomaly Detection
-<img src="past-experiences/logos/esmart.png" align="right" width="70" alt="IoT Predictive Maintenance & Heating System Anomaly Detection logo" />
-
-- **Role:** ML Engineer
-- **Company/Institution:** eSMART Technologies
-- **Date:** Nov 2022
-- **Summary:** Built an anomaly detection system that reduced emergency maintenance callouts by 20% through early fault detection
+<hr/>
+<table>
+  <tr>
+    <td><strong>ML Engineer</strong><br/>eSMART Technologies</td>
+    <td align="right"><strong>Jun 2018 - Dec 2020</strong><br/><em>Remote</em></td>
+  </tr>
+</table>
+- 20% reduction in emergency maintenance callouts
+- Estimated 15-20% improvement in maintenance efficiency
+- 75% precision@50 for high-priority alerts
+- Human-in-the-loop validation workflow
 - [View Details](past-experiences/iot_anomaly.md)
 
-### Building-Level Energy Forecasting & Smart Energy Advisor
-- **Role:** ML Engineer
-- **Company/Institution:** eSMART Technologies
-- **Date:** Aug 2022
-- **Summary:** Developed time-series forecasting models for building energy optimization and smart heating schedules
+<hr/>
+<table>
+  <tr>
+    <td><strong>ML Engineer</strong><br/>eSMART Technologies</td>
+    <td align="right"><strong>Jun 2018 - Dec 2020</strong><br/><em>Remote</em></td>
+  </tr>
+</table>
+- <10% MAPE across seasonal variations
+- ~15% increase in user engagement with energy tools
+- ~10pp increase in solar self-consumption among participating households
 - [View Details](past-experiences/iot_forecasting.md)
 
-### Master of Science in Communication Systems
-<img src="past-experiences/logos/epfl.png" align="right" width="70" alt="Master of Science in Communication Systems logo" />
-
-- **Company/Institution:** EPFL (Ecole polytechnique federale de Lausanne)
-- **Date:** Mar 2018
-- **Summary:** Master Thesis: Data Analysis & Anomaly Detection in Buildings using Sensor Data
+<hr/>
+<table>
+  <tr>
+    <td><strong>Master of Science in Communication Systems</strong><br/>EPFL (Ecole polytechnique federale de Lausanne)</td>
+    <td align="right"><strong>2015 - 2018</strong><br/><em>Lausanne, Switzerland</em></td>
+  </tr>
+</table>
+- Master Thesis: Data Analysis & Anomaly Detection in Buildings using Sensor Data
+- Built unsupervised anomaly detection system for predictive maintenance in smart buildings
+- Grade: 5.25 / 6.0
 - [View Details](past-experiences/masters.md)
 
-### Machine Learning Research Intern at NEC Labs America
-<img src="past-experiences/logos/nec.png" align="right" width="70" alt="Machine Learning Research Intern at NEC Labs America logo" />
-
-- **Role:** Machine Learning Research Intern
-- **Company/Institution:** NEC Labs America
-- **Date:** Jul 2017
-- **Summary:** Research internship focused on deep learning for computer vision, implementing object detection and scene understanding systems using YOLOv2 and PyTorch
+<hr/>
+<table>
+  <tr>
+    <td><strong>Machine Learning Research Intern</strong><br/>NEC Labs America</td>
+    <td align="right"><strong>Feb 2017 - Jul 2017</strong><br/><em>Princeton, New Jersey, USA</em></td>
+  </tr>
+</table>
+- Fine-tuned YOLOv2 for custom object detection in traffic surveillance datasets
+- Developed relationship detector for scene understanding using deep learning
+- Applied transfer learning techniques for domain-specific object detection
 - [View Details](past-experiences/nec.md)
 
-### Signal Processing Engineer at Signalchip Innovations
-<img src="past-experiences/logos/signalchip.png" align="right" width="70" alt="Signal Processing Engineer at Signalchip Innovations logo" />
-
-- **Role:** Signal Processing Engineer
-- **Company/Institution:** Signalchip Innovations
-- **Date:** May 2015
-- **Summary:** Worked on multi-user detection algorithms for WCDMA/LTE systems, contributing to 2 US patents in wireless communications signal processing
+<hr/>
+<table>
+  <tr>
+    <td><strong>Signal Processing Engineer</strong><br/>Signalchip Innovations</td>
+    <td align="right"><strong>Mar 2012 - May 2015</strong><br/><em>Bangalore, India</em></td>
+  </tr>
+</table>
+- Joined as 5th employee of semiconductor startup, contributing to core signal processing algorithms
+- Patent: Developed symbol level interference cancellation method (US Patent 9602240)
+- Patent: Developed optimized channel estimation system reducing computational complexity (US Patent 20160365991)
+- Implemented Path Searcher, Rake Receiver and Multi-user Detection algorithms for WCDMA
+- Developed PRACH signal detection algorithms for LTE systems
 - [View Details](past-experiences/signalchip.md)
 
-### Junior Research Fellow at Indian Institute of Science
-<img src="past-experiences/logos/iisc.png" align="right" width="70" alt="Junior Research Fellow at Indian Institute of Science logo" />
-
-- **Role:** Junior Research Fellow
-- **Company/Institution:** Indian Institute of Science
-- **Date:** Feb 2012
-- **Summary:** Research fellowship focused on developing efficient image reconstruction algorithms for Diffuse Optical Tomography, resulting in a published paper in Medical Physics journal
+<hr/>
+<table>
+  <tr>
+    <td><strong>Junior Research Fellow</strong><br/>Indian Institute of Science</td>
+    <td align="right"><strong>Jun 2011 - Feb 2012</strong><br/><em>Bangalore, India</em></td>
+  </tr>
+</table>
+- Published first-author paper in Medical Physics journal
+- Developed data-resolution matrix based optimization method for diffuse optical tomography
+- Reduced data collection time by identifying independent measurements without compromising image quality
+- Implemented efficient algorithms achieving 20% higher independent measurements than traditional methods
 - [View Details](past-experiences/iisc.md)
 
-### Bachelor of Engineering in Electronics and Communication
-<img src="past-experiences/logos/rvce.png" align="right" width="70" alt="Bachelor of Engineering in Electronics and Communication logo" />
-
-- **Company/Institution:** RVCE (R.V. College of Engineering)
-- **Date:** Jun 2011
-- **Summary:** Graduated with distinction - CGPA 9.23 / 10.0
+<hr/>
+<table>
+  <tr>
+    <td><strong>Bachelor of Engineering in Electronics and Communication</strong><br/>RVCE (R.V. College of Engineering)</td>
+    <td align="right"><strong>2007 - 2011</strong><br/><em>Bangalore, India</em></td>
+  </tr>
+</table>
+- Graduated with distinction - CGPA 9.23 / 10.0
 - [View Details](past-experiences/bachelors.md)
