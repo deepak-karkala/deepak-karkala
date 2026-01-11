@@ -93,13 +93,13 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 <tr>
 <td>
 
-**Consultant ML Engineer**
-*Consultant ML Engineer for mid sized European E-commerce marketplace*
+**ML Engineer (Consultant)**<br/>
+*Mid sized European E-commerce marketplace*
 
 </td>
 <td align="right">
 
-**Aug 2022 - Oct 2025**
+**Aug 2022 - Oct 2025**<br/>
 *Remote - Europe*
 
 </td>
@@ -141,13 +141,13 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 <tr>
 <td>
 
-**ML Engineer**
+**ML Engineer**<br/>
 *[eSMART Technologies](https://myesmart.com/en/)*
 
 </td>
 <td align="right">
 
-**Jun 2018 - Dec 2020**
+**Jun 2018 - Dec 2020**<br/>
 *Remote*
 
 </td>
@@ -176,13 +176,13 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 <tr>
 <td>
 
-**[Master of Science in Communication Systems](past-experiences/masters.md)**
+**[Master of Science in Communication Systems](past-experiences/masters.md)**<br/>
 *[EPFL (Ecole polytechnique federale de Lausanne)](https://www.epfl.ch/en/)*
 
 </td>
 <td align="right">
 
-**2015 - 2018**
+**Sep 2015 - May 2018**<br/>
 *Lausanne, Switzerland*
 
 </td>
@@ -202,14 +202,14 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 <tr>
 <td>
 
-**[Machine Learning Research Intern](past-experiences/nec.md)**
+**[Machine Learning Research Intern](past-experiences/nec.md)**<br/>
 *[NEC Labs America](https://www.nec-labs.com/)*
 
 </td>
 <td align="right">
 
-**Feb 2017 - Jul 2017**
-*Princeton, New Jersey, USA*
+**Feb 2017 - Jul 2017**<br/>
+*Princeton, NJ, USA*
 
 </td>
 </tr>
@@ -228,13 +228,13 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 <tr>
 <td>
 
-**[Signal Processing Engineer](past-experiences/signalchip.md)**
+**[Signal Processing Engineer](past-experiences/signalchip.md)**<br/>
 *[Signalchip Innovations](https://www.signalchip.com/)*
 
 </td>
 <td align="right">
 
-**Mar 2012 - May 2015**
+**Mar 2012 - May 2015**<br/>
 *Bangalore, India*
 
 </td>
@@ -256,13 +256,13 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 <tr>
 <td>
 
-**[Junior Research Fellow](past-experiences/iisc.md)**
+**[Junior Research Fellow](past-experiences/iisc.md)**<br/>
 *[Indian Institute of Science](https://www.iisc.ac.in/)*
 
 </td>
 <td align="right">
 
-**Jun 2011 - Feb 2012**
+**Jun 2011 - Feb 2012**<br/>
 *Bangalore, India*
 
 </td>
@@ -283,13 +283,13 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 <tr>
 <td>
 
-**[Bachelor of Engineering in Electronics and Communication](past-experiences/bachelors.md)**
+**[Bachelor of Engineering in Electronics and Communication](past-experiences/bachelors.md)**<br/>
 *[RVCE (R.V. College of Engineering)](https://rvce.edu.in/)*
 
 </td>
 <td align="right">
 
-**2007 - 2011**
+**Aug 2007 - May 2011**<br/>
 *Bangalore, India*
 
 </td>
