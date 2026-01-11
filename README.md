@@ -85,7 +85,26 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 
 ## About Me
 
-<table><tr><td width="70%"><strong>Consultant ML Engineer</strong><br/><em>Consultant ML Engineer for mid sized European E-commerce marketplace</em></td><td width="30%" align="right" valign="top"><strong>Aug 2022 - Oct 2025</strong><br/><em>Remote - Europe</em></td></tr></table>
+<table>
+<tr>
+<th><img width="600" height="1"></th>
+<th><img width="200" height="1"></th>
+</tr>
+<tr>
+<td>
+
+**Consultant ML Engineer**
+*Consultant ML Engineer for mid sized European E-commerce marketplace*
+
+</td>
+<td align="right">
+
+**Aug 2022 - Oct 2025**
+*Remote - Europe*
+
+</td>
+</tr>
+</table>
 
 - **<a href="past-experiences/ecom_rag_product_catalog.md">RAG-Powered Search & Discovery</a>**
   - Built a production-grade RAG system that improved search-to-purchase conversion by 4% and reduced "no results" by 30%
@@ -114,7 +133,26 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
   - Improved product page engagement
   - [View Details](past-experiences/ecom_reviews_summarisation.md)
 
-<table><tr><td width="70%"><strong>ML Engineer</strong><br/><em><a href="https://myesmart.com/en/">eSMART Technologies</a></em></td><td width="30%" align="right" valign="top"><strong>Jun 2018 - Dec 2020</strong><br/><em>Remote</em></td></tr></table>
+<table>
+<tr>
+<th><img width="600" height="1"></th>
+<th><img width="200" height="1"></th>
+</tr>
+<tr>
+<td>
+
+**ML Engineer**
+*[eSMART Technologies](https://myesmart.com/en/)*
+
+</td>
+<td align="right">
+
+**Jun 2018 - Dec 2020**
+*Remote*
+
+</td>
+</tr>
+</table>
 
 - **<a href="past-experiences/iot_anomaly.md">IoT Predictive Maintenance & Heating System Anomaly Detection</a>**
   - Built an anomaly detection system that reduced emergency maintenance callouts by 20% through early fault detection
@@ -130,21 +168,78 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
   - ~10pp increase in solar self-consumption among participating households
   - [View Details](past-experiences/iot_forecasting.md)
 
-<table><tr><td width="70%"><strong><a href="past-experiences/masters.md">Master of Science in Communication Systems</a></strong><br/><em><a href="https://www.epfl.ch/en/">EPFL (Ecole polytechnique federale de Lausanne)</a></em></td><td width="30%" align="right" valign="top"><strong>2015 - 2018</strong><br/><em>Lausanne, Switzerland</em></td></tr></table>
+<table>
+<tr>
+<th><img width="600" height="1"></th>
+<th><img width="200" height="1"></th>
+</tr>
+<tr>
+<td>
+
+**[Master of Science in Communication Systems](past-experiences/masters.md)**
+*[EPFL (Ecole polytechnique federale de Lausanne)](https://www.epfl.ch/en/)*
+
+</td>
+<td align="right">
+
+**2015 - 2018**
+*Lausanne, Switzerland*
+
+</td>
+</tr>
+</table>
 
 - Master Thesis: Data Analysis & Anomaly Detection in Buildings using Sensor Data
 - Built unsupervised anomaly detection system for predictive maintenance in smart buildings
 - Grade: 5.25 / 6.0
 - [View Details](past-experiences/masters.md)
 
-<table><tr><td width="70%"><strong><a href="past-experiences/nec.md">Machine Learning Research Intern</a></strong><br/><em><a href="https://www.nec-labs.com/">NEC Labs America</a></em></td><td width="30%" align="right" valign="top"><strong>Feb 2017 - Jul 2017</strong><br/><em>Princeton, New Jersey, USA</em></td></tr></table>
+<table>
+<tr>
+<th><img width="600" height="1"></th>
+<th><img width="200" height="1"></th>
+</tr>
+<tr>
+<td>
+
+**[Machine Learning Research Intern](past-experiences/nec.md)**
+*[NEC Labs America](https://www.nec-labs.com/)*
+
+</td>
+<td align="right">
+
+**Feb 2017 - Jul 2017**
+*Princeton, New Jersey, USA*
+
+</td>
+</tr>
+</table>
 
 - Fine-tuned YOLOv2 for custom object detection in traffic surveillance datasets
 - Developed relationship detector for scene understanding using deep learning
 - Applied transfer learning techniques for domain-specific object detection
 - [View Details](past-experiences/nec.md)
 
-<table><tr><td width="70%"><strong><a href="past-experiences/signalchip.md">Signal Processing Engineer</a></strong><br/><em><a href="https://www.signalchip.com/">Signalchip Innovations</a></em></td><td width="30%" align="right" valign="top"><strong>Mar 2012 - May 2015</strong><br/><em>Bangalore, India</em></td></tr></table>
+<table>
+<tr>
+<th><img width="600" height="1"></th>
+<th><img width="200" height="1"></th>
+</tr>
+<tr>
+<td>
+
+**[Signal Processing Engineer](past-experiences/signalchip.md)**
+*[Signalchip Innovations](https://www.signalchip.com/)*
+
+</td>
+<td align="right">
+
+**Mar 2012 - May 2015**
+*Bangalore, India*
+
+</td>
+</tr>
+</table>
 
 - Joined as 5th employee of semiconductor startup, contributing to core signal processing algorithms
 - Patent: Developed symbol level interference cancellation method (US Patent 9602240)
@@ -153,7 +248,26 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 - Developed PRACH signal detection algorithms for LTE systems
 - [View Details](past-experiences/signalchip.md)
 
-<table><tr><td width="70%"><strong><a href="past-experiences/iisc.md">Junior Research Fellow</a></strong><br/><em><a href="https://www.iisc.ac.in/">Indian Institute of Science</a></em></td><td width="30%" align="right" valign="top"><strong>Jun 2011 - Feb 2012</strong><br/><em>Bangalore, India</em></td></tr></table>
+<table>
+<tr>
+<th><img width="600" height="1"></th>
+<th><img width="200" height="1"></th>
+</tr>
+<tr>
+<td>
+
+**[Junior Research Fellow](past-experiences/iisc.md)**
+*[Indian Institute of Science](https://www.iisc.ac.in/)*
+
+</td>
+<td align="right">
+
+**Jun 2011 - Feb 2012**
+*Bangalore, India*
+
+</td>
+</tr>
+</table>
 
 - Published first-author paper in Medical Physics journal
 - Developed data-resolution matrix based optimization method for diffuse optical tomography
@@ -161,7 +275,26 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 - Implemented efficient algorithms achieving 20% higher independent measurements than traditional methods
 - [View Details](past-experiences/iisc.md)
 
-<table><tr><td width="70%"><strong><a href="past-experiences/bachelors.md">Bachelor of Engineering in Electronics and Communication</a></strong><br/><em><a href="https://rvce.edu.in/">RVCE (R.V. College of Engineering)</a></em></td><td width="30%" align="right" valign="top"><strong>2007 - 2011</strong><br/><em>Bangalore, India</em></td></tr></table>
+<table>
+<tr>
+<th><img width="600" height="1"></th>
+<th><img width="200" height="1"></th>
+</tr>
+<tr>
+<td>
+
+**[Bachelor of Engineering in Electronics and Communication](past-experiences/bachelors.md)**
+*[RVCE (R.V. College of Engineering)](https://rvce.edu.in/)*
+
+</td>
+<td align="right">
+
+**2007 - 2011**
+*Bangalore, India*
+
+</td>
+</tr>
+</table>
 
 - Graduated with distinction - CGPA 9.23 / 10.0
 - [View Details](past-experiences/bachelors.md)
