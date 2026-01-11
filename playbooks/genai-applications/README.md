@@ -1,0 +1,22 @@
+# GenAI Applications
+
+- [Chapter 1: GenAI Product Planning & Strategy Playbook](ch1.md)
+  - Practical guide to choosing defensive moats, evaluating product wedges, running disciplined AI experiments, and establishing unit economics for GenAI products.
+- [Chapter 2: GenAI Product Architecture](ch2.md)
+  - Production architecture patterns covering orchestration layers, decision flows for Prompt vs RAG vs Fine-tune, guardrails, agents, performance optimization, and evaluation frameworks.
+- [Chapter 3: Prompt Engineering](ch3.md)
+  - Production-grade prompt engineering covering model selection, sampling controls, prompt anatomy, defensive techniques against injection attacks, and lifecycle CI/CD for prompts.
+- [Chapter 4: Data + Models](ch4.md)
+  - Data-centric AI approach covering dataset engineering, data synthesis, model selection framework, and the escalation ladder from prompting to RAG to fine-tuning.
+- [Chapter 5: Fine-Tuning LLMs](ch5.md)
+  - Comprehensive guide to fine-tuning LLMs covering PEFT vs full SFT, LoRA details, alignment strategies (SFT vs RLHF vs DPO), dataset requirements, and production workflow.
+- [Chapter 6: Evaluating Production GenAI Apps](ch6.md)
+  - Comprehensive evaluation framework covering the eval flywheel (design/pre-prod/post-prod phases), evaluation methods, RAG metrics, CI/CD for LLMs, and LLM-as-a-judge techniques.
+- [Chapter 7: Deployment & Serving](ch7.md)
+  - Production LLM infrastructure covering API vs self-hosting decisions, inference fundamentals (TTFT/TPOT), performance engineering, cost modeling, orchestration patterns, and three-horizon migration roadmap.
+- [Chapter 8: RAG - Advanced Strategies](ch8.md)
+  - Advanced RAG techniques covering default architecture, multilingual strategies, multimodal approaches, failure modes and fixes, and minimum viable RAG checklist.
+- [Chapter 9: Inference Optimization](ch9.md)
+  - Comprehensive guide to optimizing LLM inference covering latency (TTFT/TPOT), throughput, cost reduction, KV cache fundamentals, quantization, attention optimizations, and service-level optimization strategies.
+- [Chapter 10: Industry Patterns & Case Studies](ch10.md)
+  - Production patterns from winning GenAI products covering vertical co-pilot architecture, trust stack design, controller-delegate patterns, economics of intelligence, and CTO decision frameworks.

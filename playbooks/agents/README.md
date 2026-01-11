@@ -1,0 +1,39 @@
+# Agents
+
+- [Chapter 1: Agent Fundamentals](ch1.md)
+  - Clarifies what separates true AI agents from augmented LLMs and outlines the architecture that enables autonomous decision-making.
+  - Clarifies what separates true AI agents from augmented LLMs and outlines the architecture that enables autonomous decision-making
+- [Chapter 2: LLM - Prompts, Goals, and Persona](ch2.md)
+  - Learn how to design the agent brain through effective prompting, goal definition, and persona crafting for optimal LLM performance.
+- [Chapter 3: Agent Memory](ch3.md)
+  - Understand how to implement short-term and long-term memory systems that enable agents to learn, recall, and improve over time.
+- [Chapter 4: Tool Use and Integration](ch4.md)
+  - Master the patterns for integrating external tools and APIs that extend agent capabilities beyond the base LLM.
+- [Chapter 5: Data Management and RAG](ch5.md)
+  - Explore strategies for connecting agents to enterprise data through RAG, managing knowledge bases, and ensuring data quality.
+- [Chapter 6: Orchestration and Task Decomposition](ch6.md)
+  - Learn how agents sequence and coordinate actions by breaking complex goals into manageable subtasks.
+- [Chapter 7: Agentic Patterns](ch7.md)
+  - Discover composable design patterns for building AI agents, from structured workflows to dynamic autonomous systems.
+- [Chapter 8: Context Engineering](ch8.md)
+  - Master the art of filling the context window with optimal information to maximize agent effectiveness and minimize failures.
+- [Chapter 9: Evaluations](ch9.md)
+  - Build comprehensive evaluation frameworks to measure agent performance, quality, and reliability in production.
+- [Chapter 10: Guardrails](ch10.md)
+  - Implement safety constraints and policy enforcement to ensure agents operate within acceptable boundaries.
+- [Chapter 11: Monitoring and Observability](ch11.md)
+  - Set up instrumentation and observability systems to track agent behavior, performance, and decision-making in production.
+- [Chapter 12: Human-in-the-Loop](ch12.md)
+  - Design effective human oversight mechanisms for critical decisions and continuous agent improvement.
+- [Chapter 13: Deployment and Scaling](ch13.md)
+  - Deploy agents to production and implement scaling strategies to handle increasing load and complexity.
+- [Chapter 14: Trust and Ethics](ch14.md)
+  - Build trustworthy AI agents that align with ethical principles and maintain user trust through transparency.
+- [Chapter 15: Security](ch15.md)
+  - Secure agents against prompt injection, data leakage, and abuse while protecting integration points.
+- [Chapter 16: Cost Optimization](ch16.md)
+  - Implement strategies to reduce operational costs while maintaining agent performance and quality.
+- [Chapter 17: Latency Optimization](ch17.md)
+  - Optimize response times and throughput for real-time agent interactions and high-volume scenarios.
+- [Chapter 18: Production Best Practices](ch18.md)
+  - Navigate common production challenges and apply proven best practices from real-world agent deployments.

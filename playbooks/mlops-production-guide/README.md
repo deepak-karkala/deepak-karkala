@@ -1,0 +1,68 @@
+# MLOps Production Guide
+
+- [Chapter 1: ML Problem Framing](ch1.md)
+  - Learn how to frame ML problems correctly to avoid the most common failure mode in production ML systems - building the right model for the wrong problem.
+  - Frame ML problems with production constraints in mind from day one
+- [Chapter 2.1: MLOps Blueprint & Operational Strategy](ch2.1.md)
+  - Understand the end-to-end MLOps lifecycle and operational principles for shipping ML systems in production
+  - The operating system for ML in production
+- [Chapter 2.2: MLOps Platforms](ch2.2.md)
+  - Design, build/buy decisions, and operating models for ML platforms that scale across teams
+  - Building platforms that enable teams without becoming bottlenecks
+- [Chapter 3.1: Environments, Branching, CI/CD & Deployments](ch3.1.md)
+  - Learn how to structure environments, repos, and CI/CD pipelines for ML systems with code and model deployment lanes
+  - Two deployment lanes: code changes and model artifacts
+- [Chapter 4.1: Data Sourcing, Discovery & Understanding](ch4.1.md)
+  - Learn how to identify, evaluate, and source data for ML systems while avoiding common pitfalls like training-serving skew
+  - Bad models are often just bad data decisions
+- [Chapter 4.2: Data Discovery Platforms](ch4.2.md)
+  - Industry case studies and best practices for building data discovery platforms that scale across teams
+  - Making data discoverable, understandable, and trustworthy
+- [Chapter 5.1: Data Engineering & Pipelines](ch5.1.md)
+  - Build production-grade data pipelines with correctness, freshness, and trust as core requirements
+  - Production data pipelines as software systems
+- [Chapter 5.2: Real-Time & Streaming Pipelines](ch5.2.md)
+  - Handle real-time ML with fresh features, low-latency retrieval, and SLA discipline
+  - Real-time ML challenges and solutions
+- [Chapter 6.1: Feature Engineering](ch6.1.md)
+  - Master feature engineering as the productized interface between raw data and model behavior
+  - Features as production interfaces
+- [Chapter 6.2: Feature Stores](ch6.2.md)
+  - Understand when and how to implement feature stores for consistent training-serving parity
+  - Feature stores and training-serving consistency
+- [Chapter 7.1: Model Development](ch7.1.md)
+  - Transform experiments into production-ready model candidates through systematic development
+  - From experiments to production candidates
+- [Chapter 7.2: Model Development Lessons](ch7.2.md)
+  - Production lessons and best practices from mature ML organizations
+  - Business-aligned iterative systems engineering
+- [Chapter 7.3: Training Deep Learning Models](ch7.3.md)
+  - Train production-grade deep learning models with instrumentation and debugging
+  - Paranoia + instrumentation + iteration
+- [Chapter 8.1: ML Training Pipelines](ch8.1.md)
+  - Build repeatable, governed production training pipelines from notebook wins
+  - From notebooks to production training
+- [Chapter 9.1: Testing ML Systems](ch9.1.md)
+  - Comprehensive testing strategy for code, pipelines, data, models, and infrastructure
+  - Trust engineering for probabilistic systems
+- [Chapter 10.1: Model Deployment & Serving](ch10.1.md)
+  - Deploy models to production with proper deployment strategies and serving patterns
+  - Moving models to production environments
+- [Chapter 10.2: Inference Stack](ch10.2.md)
+  - Optimize inference with serialization, compilation, and runtime strategies
+  - Layered responsibility for performance
+- [Chapter 11.1: Failures, Monitoring & Observability](ch11.1.md)
+  - Handle ML system failures, data distribution shifts, and build observability
+  - Two failure modes: bugs and drift
+- [Chapter 12.1: Continual Learning & Retraining](ch12.1.md)
+  - Implement closed-loop control systems for model retraining and continual learning
+  - Models decay because the world changes
+- [Chapter 12.2: Production Testing & A/B Testing](ch12.2.md)
+  - Make safe, causal, repeatable improvements through production experiments
+  - Safe improvements in production
+- [Chapter 12.3: A/B Testing Industry Lessons](ch12.3.md)
+  - Learn from industry best practices in production experimentation
+  - Industry lessons for experimentation
+- [Chapter 13.1: Governance, Ethics & Human Element](ch13.1.md)
+  - Address governance, ethics, and human factors in production ML systems
+  - Trust, ethics, and human oversight

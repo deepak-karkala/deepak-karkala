@@ -1,0 +1,23 @@
+# Stats for MLOps
+
+- [Chapter 1: Statistical Foundations](ch1.md)
+  - Core concepts in statistics for MLOps: random variables, distributions, moments, quantiles, sampling, and confidence intervals
+  - Master the statistical foundations essential for monitoring, testing, and decision-making in production ML systems
+- [Chapter 2: Core Distributions for MLOps](ch2.md)
+  - Essential probability distributions in production ML: Normal, Student-t, Bernoulli/Binomial, Poisson, Exponential, and when to use each
+  - Learn the key distributions that model real-world ML system behavior and how to recognize them in production
+- [Chapter 3: Hypothesis Testing](ch3.md)
+  - Framework for statistical testing in ML systems: p-values, test selection, multiple testing, and common pitfalls
+  - Build a rigorous foundation for testing hypotheses about model performance, data quality, and system behavior
+- [Chapter 4: Statistical Distance Measures](ch4.md)
+  - Methods for quantifying differences between distributions: KL divergence, KS test, Wasserstein, PSI, and when to use each
+  - Learn how to measure and detect changes in data distributions for drift detection and model monitoring
+- [Chapter 5: A/B Testing for ML Models](ch5.md)
+  - Practical playbook for running experiments on production ML systems: design, randomization, analysis, and common pitfalls
+  - Master the complete workflow for A/B testing ML models from experiment design to statistical analysis and decision-making
+- [Chapter 6: Monitoring and Drift Detection](ch6.md)
+  - Statistical approaches to monitoring data quality, detecting drift, and maintaining model health in production systems
+  - Build robust monitoring systems using statistical methods to catch data drift, quality issues, and model degradation
+- [Chapter 7: Uncertainty and Decision-Making](ch7.md)
+  - Calibration, confidence intervals, and statistical decision frameworks for production ML systems
+  - Learn to quantify uncertainty, calibrate model outputs, and make statistically-informed decisions under uncertainty
