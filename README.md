@@ -85,26 +85,29 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 
 ## About Me
 <hr/>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
-  <tr>
-    <td style="border:none; padding:0; width:70%;"><strong>ML Engineer (Consultant)</strong><br/><em>Mid sized European E-commerce marketplace</em></td>
-    <td align="right" style="border:none; padding:0; text-align:right; width:30%; white-space:nowrap;"><strong>Aug 2022 - Oct 2025</strong><br/><em>Remote - Europe</em></td>
-  </tr>
-</table>
+<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:16px; width:100%;">
+  <div><strong>Consultant ML Engineer</strong><br/><em>Consultant ML Engineer for mid sized European E-commerce marketplace</em></div>
+  <div style="text-align:right; white-space:nowrap;"><strong>Aug 2022 - Oct 2025</strong><br/><em>Remote - Europe</em></div>
+</div>
 
 - **<a href="past-experiences/ecom_rag_product_catalog.md">RAG-Powered Search & Discovery</a>**
   - Built a production-grade RAG system that improved search-to-purchase conversion by 4% and reduced "no results" by 30%
-  - Sub-500ms p99 latency
+  - 4% improvement in search-to-purchase conversion
+  - 30% reduction in "no results found" searches
+  - Sub-500ms p99 latency at scale
   - ~0.1 cents/query inference cost with 5x ROI
   - [View Details](past-experiences/ecom_rag_product_catalog.md)
 - **<a href="past-experiences/ecom_customer_lifetime_value.md">Customer Lifetime Value (CLV) Prediction</a>**
   - Built a production CLV prediction system that improved marketing ROI by 12% through value-based customer targeting and segmentation
+  - 12% higher marketing ROI on CLV-driven campaigns
   - 10% relative reduction in churn among high-value cohorts
-  - Weekly batch inference costing only EUR 75/month
+  - Weekly batch inference costing only EUR75/month
   - [View Details](past-experiences/ecom_customer_lifetime_value.md)
 - **<a href="past-experiences/ecom_purchase_propensity.md">Real-Time Purchase Intent Scoring</a>**
   - Deployed a session-level purchase propensity model achieving 5% conversion uplift with 40% reduction in p99 latency through Redis optimization
+  - 5% relative uplift in overall conversion rate
   - 3.5% uplift in AOV among users with model-driven offers
+  - 40% reduction in p99 inference latency through Redis optimization
   - Real-time feature engineering with Spark Structured Streaming
   - [View Details](past-experiences/ecom_purchase_propensity.md)
 - **<a href="past-experiences/ecom_reviews_summarisation.md">LLM Generated Review Summaries</a>**
@@ -115,15 +118,14 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
   - [View Details](past-experiences/ecom_reviews_summarisation.md)
 
 <hr/>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
-  <tr>
-    <td style="border:none; padding:0; width:70%;"><strong>ML Engineer</strong><br/><em><a href="https://myesmart.com/en/">eSMART Technologies</a></em></td>
-    <td align="right" style="border:none; padding:0; text-align:right; width:30%; white-space:nowrap;"><strong>Jun 2018 - Dec 2020</strong><br/><em>Remote</em></td>
-  </tr>
-</table>
+<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:16px; width:100%;">
+  <div><strong>ML Engineer</strong><br/><em><a href="https://myesmart.com/en/">eSMART Technologies</a></em></div>
+  <div style="text-align:right; white-space:nowrap;"><strong>Jun 2018 - Dec 2020</strong><br/><em>Remote</em></div>
+</div>
 
 - **<a href="past-experiences/iot_anomaly.md">IoT Predictive Maintenance & Heating System Anomaly Detection</a>**
   - Built an anomaly detection system that reduced emergency maintenance callouts by 20% through early fault detection
+  - 20% reduction in emergency maintenance callouts
   - Estimated 15-20% improvement in maintenance efficiency
   - 75% precision@50 for high-priority alerts
   - Human-in-the-loop validation workflow
@@ -136,40 +138,32 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
   - [View Details](past-experiences/iot_forecasting.md)
 
 <hr/>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
-  <tr>
-    <td style="border:none; padding:0; width:70%;"><strong><a href="past-experiences/nec.md">Machine Learning Research Intern</a></strong><br/><em><a href="https://www.nec-labs.com/">NEC Labs America</a></em></td>
-    <td align="right" style="border:none; padding:0; text-align:right; width:30%; white-space:nowrap;"><strong>Feb 2017 - Jul 2017</strong><br/><em>Princeton, New Jersey, USA</em></td>
-  </tr>
-</table>
-
-- Fine-tuned YOLOv2 for custom object detection in traffic surveillance datasets
-- Developed relationship detector for scene understanding using deep learning
-- Applied transfer learning techniques for domain-specific object detection
-- [View Details](past-experiences/nec.md)
-
-
-<hr/>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
-  <tr>
-    <td style="border:none; padding:0; width:70%;"><strong><a href="past-experiences/masters.md">Master of Science in Communication Systems</a></strong><br/><em><a href="https://www.epfl.ch/en/">EPFL (Ecole polytechnique federale de Lausanne)</a></em></td>
-    <td align="right" style="border:none; padding:0; text-align:right; width:30%; white-space:nowrap;"><strong>Sep 2015 - May 2018</strong><br/><em>Lausanne, Switzerland</em></td>
-  </tr>
-</table>
+<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:16px; width:100%;">
+  <div><strong><a href="past-experiences/masters.md">Master of Science in Communication Systems</a></strong><br/><em><a href="https://www.epfl.ch/en/">EPFL (Ecole polytechnique federale de Lausanne)</a></em></div>
+  <div style="text-align:right; white-space:nowrap;"><strong>2015 - 2018</strong><br/><em>Lausanne, Switzerland</em></div>
+</div>
 
 - Master Thesis: Data Analysis & Anomaly Detection in Buildings using Sensor Data
 - Built unsupervised anomaly detection system for predictive maintenance in smart buildings
 - Grade: 5.25 / 6.0
 - [View Details](past-experiences/masters.md)
 
+<hr/>
+<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:16px; width:100%;">
+  <div><strong><a href="past-experiences/nec.md">Machine Learning Research Intern</a></strong><br/><em><a href="https://www.nec-labs.com/">NEC Labs America</a></em></div>
+  <div style="text-align:right; white-space:nowrap;"><strong>Feb 2017 - Jul 2017</strong><br/><em>Princeton, New Jersey, USA</em></div>
+</div>
+
+- Fine-tuned YOLOv2 for custom object detection in traffic surveillance datasets
+- Developed relationship detector for scene understanding using deep learning
+- Applied transfer learning techniques for domain-specific object detection
+- [View Details](past-experiences/nec.md)
 
 <hr/>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
-  <tr>
-    <td style="border:none; padding:0; width:70%;"><strong><a href="past-experiences/signalchip.md">Signal Processing Engineer</a></strong><br/><em><a href="https://www.signalchip.com/">Signalchip Innovations</a></em></td>
-    <td align="right" style="border:none; padding:0; text-align:right; width:30%; white-space:nowrap;"><strong>Mar 2012 - May 2015</strong><br/><em>Bangalore, India</em></td>
-  </tr>
-</table>
+<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:16px; width:100%;">
+  <div><strong><a href="past-experiences/signalchip.md">Signal Processing Engineer</a></strong><br/><em><a href="https://www.signalchip.com/">Signalchip Innovations</a></em></div>
+  <div style="text-align:right; white-space:nowrap;"><strong>Mar 2012 - May 2015</strong><br/><em>Bangalore, India</em></div>
+</div>
 
 - Joined as 5th employee of semiconductor startup, contributing to core signal processing algorithms
 - Patent: Developed symbol level interference cancellation method (US Patent 9602240)
@@ -179,12 +173,10 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 - [View Details](past-experiences/signalchip.md)
 
 <hr/>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
-  <tr>
-    <td style="border:none; padding:0; width:70%;"><strong><a href="past-experiences/iisc.md">Junior Research Fellow</a></strong><br/><em><a href="https://www.iisc.ac.in/">Indian Institute of Science</a></em></td>
-    <td align="right" style="border:none; padding:0; text-align:right; width:30%; white-space:nowrap;"><strong>Jun 2011 - Feb 2012</strong><br/><em>Bangalore, India</em></td>
-  </tr>
-</table>
+<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:16px; width:100%;">
+  <div><strong><a href="past-experiences/iisc.md">Junior Research Fellow</a></strong><br/><em><a href="https://www.iisc.ac.in/">Indian Institute of Science</a></em></div>
+  <div style="text-align:right; white-space:nowrap;"><strong>Jun 2011 - Feb 2012</strong><br/><em>Bangalore, India</em></div>
+</div>
 
 - Published first-author paper in Medical Physics journal
 - Developed data-resolution matrix based optimization method for diffuse optical tomography
@@ -193,12 +185,10 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 - [View Details](past-experiences/iisc.md)
 
 <hr/>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
-  <tr>
-    <td style="border:none; padding:0; width:70%;"><strong><a href="past-experiences/bachelors.md">Bachelor of Engineering in Electronics and Communication</a></strong><br/><em><a href="https://rvce.edu.in/">RVCE (R.V. College of Engineering)</a></em></td>
-    <td align="right" style="border:none; padding:0; text-align:right; width:30%; white-space:nowrap;"><strong>Aug 2007 - May 2011</strong><br/><em>Bangalore, India</em></td>
-  </tr>
-</table>
+<div style="display:flex; justify-content:space-between; align-items:flex-start; gap:16px;">
+  <div><strong><a href="past-experiences/bachelors.md">Bachelor of Engineering in Electronics and Communication</a></strong><br/><em><a href="https://rvce.edu.in/">RVCE (R.V. College of Engineering)</a></em></div>
+  <div style="text-align:right; white-space:nowrap;"><strong>2007 - 2011</strong><br/><em>Bangalore, India</em></div>
+</div>
 
 - Graduated with distinction - CGPA 9.23 / 10.0
 - [View Details](past-experiences/bachelors.md)
