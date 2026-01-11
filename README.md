@@ -85,10 +85,10 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 
 ## About Me
 <hr/>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
+<table>
   <tr>
-    <td style="border:none; padding:0; width:70%; vertical-align:top;"><strong>Consultant ML Engineer</strong><br/><em>Consultant ML Engineer for mid sized European E-commerce marketplace</em></td>
-    <td style="border:none; padding:0; width:30%; text-align:right; white-space:nowrap; vertical-align:top;"><strong>Aug 2022 - Oct 2025</strong><br/><em>Remote - Europe</em></td>
+    <td><strong>Consultant ML Engineer</strong><br/><em>Consultant ML Engineer for mid sized European E-commerce marketplace</em></td>
+    <td align="right"><strong>Aug 2022 - Oct 2025</strong><br/><em>Remote - Europe</em></td>
   </tr>
 </table>
 
@@ -120,10 +120,10 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
   - [View Details](past-experiences/ecom_reviews_summarisation.md)
 
 <hr/>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
+<table>
   <tr>
-    <td style="border:none; padding:0; width:70%; vertical-align:top;"><strong>ML Engineer</strong><br/><em><a href="https://myesmart.com/en/">eSMART Technologies</a></em></td>
-    <td style="border:none; padding:0; width:30%; text-align:right; white-space:nowrap; vertical-align:top;"><strong>Jun 2018 - Dec 2020</strong><br/><em>Remote</em></td>
+    <td><strong>ML Engineer</strong><br/><em><a href="https://myesmart.com/en/">eSMART Technologies</a></em></td>
+    <td align="right"><strong>Jun 2018 - Dec 2020</strong><br/><em>Remote</em></td>
   </tr>
 </table>
 
@@ -142,10 +142,10 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
   - [View Details](past-experiences/iot_forecasting.md)
 
 <hr/>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
+<table>
   <tr>
-    <td style="border:none; padding:0; width:70%; vertical-align:top;"><strong><a href="past-experiences/masters.md">Master of Science in Communication Systems</a></strong><br/><em><a href="https://www.epfl.ch/en/">EPFL (Ecole polytechnique federale de Lausanne)</a></em></td>
-    <td style="border:none; padding:0; width:30%; text-align:right; white-space:nowrap; vertical-align:top;"><strong>2015 - 2018</strong><br/><em>Lausanne, Switzerland</em></td>
+    <td><strong><a href="past-experiences/masters.md">Master of Science in Communication Systems</a></strong><br/><em><a href="https://www.epfl.ch/en/">EPFL (Ecole polytechnique federale de Lausanne)</a></em></td>
+    <td align="right"><strong>2015 - 2018</strong><br/><em>Lausanne, Switzerland</em></td>
   </tr>
 </table>
 
@@ -155,10 +155,10 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 - [View Details](past-experiences/masters.md)
 
 <hr/>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
+<table>
   <tr>
-    <td style="border:none; padding:0; width:70%; vertical-align:top;"><strong><a href="past-experiences/nec.md">Machine Learning Research Intern</a></strong><br/><em><a href="https://www.nec-labs.com/">NEC Labs America</a></em></td>
-    <td style="border:none; padding:0; width:30%; text-align:right; white-space:nowrap; vertical-align:top;"><strong>Feb 2017 - Jul 2017</strong><br/><em>Princeton, New Jersey, USA</em></td>
+    <td><strong><a href="past-experiences/nec.md">Machine Learning Research Intern</a></strong><br/><em><a href="https://www.nec-labs.com/">NEC Labs America</a></em></td>
+    <td align="right"><strong>Feb 2017 - Jul 2017</strong><br/><em>Princeton, New Jersey, USA</em></td>
   </tr>
 </table>
 
@@ -168,10 +168,10 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 - [View Details](past-experiences/nec.md)
 
 <hr/>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
+<table>
   <tr>
-    <td style="border:none; padding:0; width:70%; vertical-align:top;"><strong><a href="past-experiences/signalchip.md">Signal Processing Engineer</a></strong><br/><em><a href="https://www.signalchip.com/">Signalchip Innovations</a></em></td>
-    <td style="border:none; padding:0; width:30%; text-align:right; white-space:nowrap; vertical-align:top;"><strong>Mar 2012 - May 2015</strong><br/><em>Bangalore, India</em></td>
+    <td><strong><a href="past-experiences/signalchip.md">Signal Processing Engineer</a></strong><br/><em><a href="https://www.signalchip.com/">Signalchip Innovations</a></em></td>
+    <td align="right"><strong>Mar 2012 - May 2015</strong><br/><em>Bangalore, India</em></td>
   </tr>
 </table>
 
@@ -183,10 +183,10 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 - [View Details](past-experiences/signalchip.md)
 
 <hr/>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
+<table>
   <tr>
-    <td style="border:none; padding:0; width:70%; vertical-align:top;"><strong><a href="past-experiences/iisc.md">Junior Research Fellow</a></strong><br/><em><a href="https://www.iisc.ac.in/">Indian Institute of Science</a></em></td>
-    <td style="border:none; padding:0; width:30%; text-align:right; white-space:nowrap; vertical-align:top;"><strong>Jun 2011 - Feb 2012</strong><br/><em>Bangalore, India</em></td>
+    <td><strong><a href="past-experiences/iisc.md">Junior Research Fellow</a></strong><br/><em><a href="https://www.iisc.ac.in/">Indian Institute of Science</a></em></td>
+    <td align="right"><strong>Jun 2011 - Feb 2012</strong><br/><em>Bangalore, India</em></td>
   </tr>
 </table>
 
@@ -197,10 +197,10 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 - [View Details](past-experiences/iisc.md)
 
 <hr/>
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
+<table>
   <tr>
-    <td style="border:none; padding:0; width:70%; vertical-align:top;"><strong><a href="past-experiences/bachelors.md">Bachelor of Engineering in Electronics and Communication</a></strong><br/><em><a href="https://rvce.edu.in/">RVCE (R.V. College of Engineering)</a></em></td>
-    <td style="border:none; padding:0; width:30%; text-align:right; white-space:nowrap; vertical-align:top;"><strong>2007 - 2011</strong><br/><em>Bangalore, India</em></td>
+    <td><strong><a href="past-experiences/bachelors.md">Bachelor of Engineering in Electronics and Communication</a></strong><br/><em><a href="https://rvce.edu.in/">RVCE (R.V. College of Engineering)</a></em></td>
+    <td align="right"><strong>2007 - 2011</strong><br/><em>Bangalore, India</em></td>
   </tr>
 </table>
 
