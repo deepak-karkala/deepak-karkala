@@ -1,13 +1,18 @@
 # IoT Predictive Maintenance & Heating System Anomaly Detection
 
 > ML Engineer
+>
 > [eSMART Technologies](https://myesmart.com/en/), Renens Switzerland
+>
 > Built an anomaly detection system that reduced emergency maintenance callouts by 20% through early fault detection
 
 
 > '20% reduction in emergency maintenance callouts'
+>
 > 'Estimated 15-20% improvement in maintenance efficiency'
+>
 > '75% precision@50 for high-priority alerts'
+>
 > 'Human-in-the-loop validation workflow'
 
 
