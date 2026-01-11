@@ -1,11 +1,18 @@
 # Building-Level Energy Forecasting & Smart Energy Advisor
 
+
 > ML Engineer
+>
 > [eSMART Technologies](https://myesmart.com/en/), Renens Switzerland
+>
 > Developed time-series forecasting models for building energy optimization and smart heating schedules
 
+
+
 > '<10% MAPE across seasonal variations'
+>
 > '~15% increase in user engagement with energy tools'
+>
 > '~10pp increase in solar self-consumption among participating households'
 
 

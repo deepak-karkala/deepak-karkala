@@ -1,13 +1,18 @@
 # Signal Processing Engineer at Signalchip Innovations
 
 > Mar 2012 – May 2015
+>
 > Bangalore, India
 
 
 > 'Joined as 5th employee of semiconductor startup, contributing to core signal processing algorithms',
+>
 > 'Patent: Developed symbol level interference cancellation method (US Patent 9602240)',
+>
 > 'Patent: Developed optimized channel estimation system reducing computational complexity (US Patent 20160365991)',
+>
 > 'Implemented Path Searcher, Rake Receiver and Multi-user Detection algorithms for WCDMA',
+>
 > 'Developed PRACH signal detection algorithms for LTE systems'
 
 

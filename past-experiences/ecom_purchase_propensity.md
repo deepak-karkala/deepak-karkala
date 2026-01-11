@@ -2,12 +2,16 @@
 
 
 > **Role:** Consultant ML Engineer
+>
 > **Context:** Mid-sized European E-commerce marketplace (multi-country, broad product catalog, few thousand daily orders)
 
 
 > '5% relative uplift in overall conversion rate'
+>
 > '3.5% uplift in AOV among users with model-driven offers'
+>
 > '40% reduction in p99 inference latency through Redis optimization'
+>
 > 'Real-time feature engineering with Spark Structured Streaming'
 
 

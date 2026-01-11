@@ -2,11 +2,15 @@
 
 
 > **Role:** Consultant ML Engineer
+>
 > **Context:** Mid-sized European E-commerce marketplace (multi-country, broad product catalog, few thousand daily orders)
 
 
+
 > 'Automated summarisation of product reviews'
+>
 > 'Extracted key sentiment and feature insights'
+>
 > 'Improved product page engagement'
 
 

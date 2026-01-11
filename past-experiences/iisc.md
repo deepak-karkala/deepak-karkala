@@ -1,8 +1,12 @@
 # Junior Research Fellow at Indian Institute of Science
 
+
 > 'Published first-author paper in Medical Physics journal',
+>
 > 'Developed data-resolution matrix based optimization method for diffuse optical tomography',
+>
 > 'Reduced data collection time by identifying independent measurements without compromising image quality',
+>
 > 'Implemented efficient algorithms achieving 20% higher independent measurements than traditional methods'
 
 

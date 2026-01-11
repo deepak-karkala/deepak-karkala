@@ -1,10 +1,15 @@
 # RAG-Powered Search & Discovery
 
 > **Role:** Consultant ML Engineer
+>
 > **Context:** Mid-sized European E-commerce marketplace (multi-country, broad product catalog, few thousand daily orders)
 
+
+
 > '4% improvement in search-to-purchase conversion'
+>
 > '30% reduction in "no results found" searches'
+>
 > 'Sub-500ms p99 latency'
 
 

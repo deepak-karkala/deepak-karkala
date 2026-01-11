@@ -1,10 +1,15 @@
 # Customer Lifetime Value (CLV) Prediction
 
 > **Role:** Consultant ML Engineer
+>
 > **Context:** Mid-sized European E-commerce marketplace (multi-country, broad product catalog, few thousand daily orders)
 
+
+
 > '12% higher marketing ROI on CLV-driven campaigns'
+>
 > '10% relative reduction in churn among high-value cohorts'
+>
 > 'Weekly batch inference costing only €75/month'
 
 

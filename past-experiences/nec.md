@@ -2,12 +2,16 @@
 
 
 > [NEC Labs America, Princeton, USA](https://www.nec-labs.com/)
+>
 > Feb 2017 – Jul 2017
 
 
 > 'Fine-tuned YOLOv2 for custom object detection in traffic surveillance datasets',
+>
 > 'Developed relationship detector for scene understanding using deep learning',
+>
 > 'Applied transfer learning techniques for domain-specific object detection'
+
 
 > ['Python', 'PyTorch', 'YOLOv2', 'Deep Learning', 'Computer Vision', 'Object Detection', 'Scene Understanding', 'OpenCV']
 
