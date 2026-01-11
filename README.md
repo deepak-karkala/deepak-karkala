@@ -91,6 +91,7 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
     <td style="border:none; padding:0; width:30%; text-align:right; white-space:nowrap; vertical-align:top;"><strong>Aug 2022 - Oct 2025</strong><br/><em>Remote - Europe</em></td>
   </tr>
 </table>
+
 - **<a href="past-experiences/ecom_rag_product_catalog.md">RAG-Powered Search & Discovery</a>**
   - Built a production-grade RAG system that improved search-to-purchase conversion by 4% and reduced "no results" by 30%
   - 4% improvement in search-to-purchase conversion
@@ -125,6 +126,7 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
     <td style="border:none; padding:0; width:30%; text-align:right; white-space:nowrap; vertical-align:top;"><strong>Jun 2018 - Dec 2020</strong><br/><em>Remote</em></td>
   </tr>
 </table>
+
 - **<a href="past-experiences/iot_anomaly.md">IoT Predictive Maintenance & Heating System Anomaly Detection</a>**
   - Built an anomaly detection system that reduced emergency maintenance callouts by 20% through early fault detection
   - 20% reduction in emergency maintenance callouts
@@ -146,6 +148,7 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
     <td style="border:none; padding:0; width:30%; text-align:right; white-space:nowrap; vertical-align:top;"><strong>2015 - 2018</strong><br/><em>Lausanne, Switzerland</em></td>
   </tr>
 </table>
+
 - Master Thesis: Data Analysis & Anomaly Detection in Buildings using Sensor Data
 - Built unsupervised anomaly detection system for predictive maintenance in smart buildings
 - Grade: 5.25 / 6.0
@@ -158,6 +161,7 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
     <td style="border:none; padding:0; width:30%; text-align:right; white-space:nowrap; vertical-align:top;"><strong>Feb 2017 - Jul 2017</strong><br/><em>Princeton, New Jersey, USA</em></td>
   </tr>
 </table>
+
 - Fine-tuned YOLOv2 for custom object detection in traffic surveillance datasets
 - Developed relationship detector for scene understanding using deep learning
 - Applied transfer learning techniques for domain-specific object detection
@@ -170,6 +174,7 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
     <td style="border:none; padding:0; width:30%; text-align:right; white-space:nowrap; vertical-align:top;"><strong>Mar 2012 - May 2015</strong><br/><em>Bangalore, India</em></td>
   </tr>
 </table>
+
 - Joined as 5th employee of semiconductor startup, contributing to core signal processing algorithms
 - Patent: Developed symbol level interference cancellation method (US Patent 9602240)
 - Patent: Developed optimized channel estimation system reducing computational complexity (US Patent 20160365991)
@@ -184,6 +189,7 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
     <td style="border:none; padding:0; width:30%; text-align:right; white-space:nowrap; vertical-align:top;"><strong>Jun 2011 - Feb 2012</strong><br/><em>Bangalore, India</em></td>
   </tr>
 </table>
+
 - Published first-author paper in Medical Physics journal
 - Developed data-resolution matrix based optimization method for diffuse optical tomography
 - Reduced data collection time by identifying independent measurements without compromising image quality
@@ -197,5 +203,6 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
     <td style="border:none; padding:0; width:30%; text-align:right; white-space:nowrap; vertical-align:top;"><strong>2007 - 2011</strong><br/><em>Bangalore, India</em></td>
   </tr>
 </table>
+
 - Graduated with distinction - CGPA 9.23 / 10.0
 - [View Details](past-experiences/bachelors.md)
