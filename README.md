@@ -84,13 +84,9 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 
 
 ## About Me
-<hr/>
-<table>
-  <tr>
-    <td><strong>Consultant ML Engineer</strong><br/><em>Consultant ML Engineer for mid sized European E-commerce marketplace</em></td>
-    <td align="right"><strong>Aug 2022 - Oct 2025</strong><br/><em>Remote - Europe</em></td>
-  </tr>
-</table>
+
+| **Consultant ML Engineer**<br/>*Consultant ML Engineer for mid sized European E-commerce marketplace* | **Aug 2022 - Oct 2025**<br/>*Remote - Europe* |
+|:---|---:|
 
 - **<a href="past-experiences/ecom_rag_product_catalog.md">RAG-Powered Search & Discovery</a>**
   - Built a production-grade RAG system that improved search-to-purchase conversion by 4% and reduced "no results" by 30%
@@ -119,13 +115,8 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
   - Improved product page engagement
   - [View Details](past-experiences/ecom_reviews_summarisation.md)
 
-<hr/>
-<table>
-  <tr>
-    <td><strong>ML Engineer</strong><br/><em><a href="https://myesmart.com/en/">eSMART Technologies</a></em></td>
-    <td align="right"><strong>Jun 2018 - Dec 2020</strong><br/><em>Remote</em></td>
-  </tr>
-</table>
+| **ML Engineer**<br/>*[eSMART Technologies](https://myesmart.com/en/)* | **Jun 2018 - Dec 2020**<br/>*Remote* |
+|:---|---:|
 
 - **<a href="past-experiences/iot_anomaly.md">IoT Predictive Maintenance & Heating System Anomaly Detection</a>**
   - Built an anomaly detection system that reduced emergency maintenance callouts by 20% through early fault detection
@@ -141,39 +132,24 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
   - ~10pp increase in solar self-consumption among participating households
   - [View Details](past-experiences/iot_forecasting.md)
 
-<hr/>
-<table>
-  <tr>
-    <td><strong><a href="past-experiences/masters.md">Master of Science in Communication Systems</a></strong><br/><em><a href="https://www.epfl.ch/en/">EPFL (Ecole polytechnique federale de Lausanne)</a></em></td>
-    <td align="right"><strong>2015 - 2018</strong><br/><em>Lausanne, Switzerland</em></td>
-  </tr>
-</table>
+| **[Master of Science in Communication Systems](past-experiences/masters.md)**<br/>*[EPFL (Ecole polytechnique federale de Lausanne)](https://www.epfl.ch/en/)* | **2015 - 2018**<br/>*Lausanne, Switzerland* |
+|:---|---:|
 
 - Master Thesis: Data Analysis & Anomaly Detection in Buildings using Sensor Data
 - Built unsupervised anomaly detection system for predictive maintenance in smart buildings
 - Grade: 5.25 / 6.0
 - [View Details](past-experiences/masters.md)
 
-<hr/>
-<table>
-  <tr>
-    <td><strong><a href="past-experiences/nec.md">Machine Learning Research Intern</a></strong><br/><em><a href="https://www.nec-labs.com/">NEC Labs America</a></em></td>
-    <td align="right"><strong>Feb 2017 - Jul 2017</strong><br/><em>Princeton, New Jersey, USA</em></td>
-  </tr>
-</table>
+| **[Machine Learning Research Intern](past-experiences/nec.md)**<br/>*[NEC Labs America](https://www.nec-labs.com/)* | **Feb 2017 - Jul 2017**<br/>*Princeton, New Jersey, USA* |
+|:---|---:|
 
 - Fine-tuned YOLOv2 for custom object detection in traffic surveillance datasets
 - Developed relationship detector for scene understanding using deep learning
 - Applied transfer learning techniques for domain-specific object detection
 - [View Details](past-experiences/nec.md)
 
-<hr/>
-<table>
-  <tr>
-    <td><strong><a href="past-experiences/signalchip.md">Signal Processing Engineer</a></strong><br/><em><a href="https://www.signalchip.com/">Signalchip Innovations</a></em></td>
-    <td align="right"><strong>Mar 2012 - May 2015</strong><br/><em>Bangalore, India</em></td>
-  </tr>
-</table>
+| **[Signal Processing Engineer](past-experiences/signalchip.md)**<br/>*[Signalchip Innovations](https://www.signalchip.com/)* | **Mar 2012 - May 2015**<br/>*Bangalore, India* |
+|:---|---:|
 
 - Joined as 5th employee of semiconductor startup, contributing to core signal processing algorithms
 - Patent: Developed symbol level interference cancellation method (US Patent 9602240)
@@ -182,13 +158,8 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 - Developed PRACH signal detection algorithms for LTE systems
 - [View Details](past-experiences/signalchip.md)
 
-<hr/>
-<table>
-  <tr>
-    <td><strong><a href="past-experiences/iisc.md">Junior Research Fellow</a></strong><br/><em><a href="https://www.iisc.ac.in/">Indian Institute of Science</a></em></td>
-    <td align="right"><strong>Jun 2011 - Feb 2012</strong><br/><em>Bangalore, India</em></td>
-  </tr>
-</table>
+| **[Junior Research Fellow](past-experiences/iisc.md)**<br/>*[Indian Institute of Science](https://www.iisc.ac.in/)* | **Jun 2011 - Feb 2012**<br/>*Bangalore, India* |
+|:---|---:|
 
 - Published first-author paper in Medical Physics journal
 - Developed data-resolution matrix based optimization method for diffuse optical tomography
@@ -196,13 +167,8 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 - Implemented efficient algorithms achieving 20% higher independent measurements than traditional methods
 - [View Details](past-experiences/iisc.md)
 
-<hr/>
-<table>
-  <tr>
-    <td><strong><a href="past-experiences/bachelors.md">Bachelor of Engineering in Electronics and Communication</a></strong><br/><em><a href="https://rvce.edu.in/">RVCE (R.V. College of Engineering)</a></em></td>
-    <td align="right"><strong>2007 - 2011</strong><br/><em>Bangalore, India</em></td>
-  </tr>
-</table>
+| **[Bachelor of Engineering in Electronics and Communication](past-experiences/bachelors.md)**<br/>*[RVCE (R.V. College of Engineering)](https://rvce.edu.in/)* | **2007 - 2011**<br/>*Bangalore, India* |
+|:---|---:|
 
 - Graduated with distinction - CGPA 9.23 / 10.0
 - [View Details](past-experiences/bachelors.md)
