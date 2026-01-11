@@ -22,9 +22,11 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 ## Contents
 - [Playbooks](#playbooks)
 - [Projects](#projects)
-- [Agentic AI Products](#agentic-ai-products)
+- [Building Agentic AI Products](#building-agentic-ai-products)
 - [Illustrated Guides](#illustrated-guides)
+- [Data Visualisation](#data-visualisation)
 - [About Me](#about-me)
+
 
 ## Playbooks
 - [Stats for MLOps](playbooks/stats-for-mlops/README.md) - Statistical foundations and practical methods for monitoring, testing, and decision-making in production ML systems.
@@ -83,10 +85,10 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 
 ## About Me
 <hr/>
-<table width="100%">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
   <tr>
-    <td><strong>ML Engineer (Consultant)</strong><br/><em>Mid sized European E-commerce marketplace</em></td>
-    <td align="right"><strong>Aug 2022 - Oct 2025</strong><br/><em>Remote - Europe</em></td>
+    <td style="border:none; padding:0; width:70%;"><strong>ML Engineer (Consultant)</strong><br/><em>Mid sized European E-commerce marketplace</em></td>
+    <td align="right" style="border:none; padding:0; text-align:right; width:30%; white-space:nowrap;"><strong>Aug 2022 - Oct 2025</strong><br/><em>Remote - Europe</em></td>
   </tr>
 </table>
 
@@ -113,10 +115,10 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
   - [View Details](past-experiences/ecom_reviews_summarisation.md)
 
 <hr/>
-<table width="100%">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
   <tr>
-    <td><strong>ML Engineer</strong><br/><em><a href="https://myesmart.com/en/">eSMART Technologies</a></em></td>
-    <td align="right"><strong>Jun 2018 - Dec 2020</strong><br/><em>Remote</em></td>
+    <td style="border:none; padding:0; width:70%;"><strong>ML Engineer</strong><br/><em><a href="https://myesmart.com/en/">eSMART Technologies</a></em></td>
+    <td align="right" style="border:none; padding:0; text-align:right; width:30%; white-space:nowrap;"><strong>Jun 2018 - Dec 2020</strong><br/><em>Remote</em></td>
   </tr>
 </table>
 
@@ -134,10 +136,10 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
   - [View Details](past-experiences/iot_forecasting.md)
 
 <hr/>
-<table width="100%">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
   <tr>
-    <td><strong><a href="past-experiences/nec.md">Machine Learning Research Intern</a></strong><br/><em><a href="https://www.nec-labs.com/">NEC Labs America</a></em></td>
-    <td align="right"><strong>Feb 2017 - Jul 2017</strong><br/><em>Princeton, New Jersey, USA</em></td>
+    <td style="border:none; padding:0; width:70%;"><strong><a href="past-experiences/nec.md">Machine Learning Research Intern</a></strong><br/><em><a href="https://www.nec-labs.com/">NEC Labs America</a></em></td>
+    <td align="right" style="border:none; padding:0; text-align:right; width:30%; white-space:nowrap;"><strong>Feb 2017 - Jul 2017</strong><br/><em>Princeton, New Jersey, USA</em></td>
   </tr>
 </table>
 
@@ -148,10 +150,10 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 
 
 <hr/>
-<table width="100%">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
   <tr>
-    <td><strong><a href="past-experiences/masters.md">Master of Science in Communication Systems</a></strong><br/><em><a href="https://www.epfl.ch/en/">EPFL (Ecole polytechnique federale de Lausanne)</a></em></td>
-    <td align="right"><strong>Sep 2015 - May 2018</strong><br/><em>Lausanne, Switzerland</em></td>
+    <td style="border:none; padding:0; width:70%;"><strong><a href="past-experiences/masters.md">Master of Science in Communication Systems</a></strong><br/><em><a href="https://www.epfl.ch/en/">EPFL (Ecole polytechnique federale de Lausanne)</a></em></td>
+    <td align="right" style="border:none; padding:0; text-align:right; width:30%; white-space:nowrap;"><strong>Sep 2015 - May 2018</strong><br/><em>Lausanne, Switzerland</em></td>
   </tr>
 </table>
 
@@ -162,10 +164,10 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 
 
 <hr/>
-<table width="100%">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
   <tr>
-    <td><strong><a href="past-experiences/signalchip.md">Signal Processing Engineer</a></strong><br/><em><a href="https://www.signalchip.com/">Signalchip Innovations</a></em></td>
-    <td align="right"><strong>Mar 2012 - May 2015</strong><br/><em>Bangalore, India</em></td>
+    <td style="border:none; padding:0; width:70%;"><strong><a href="past-experiences/signalchip.md">Signal Processing Engineer</a></strong><br/><em><a href="https://www.signalchip.com/">Signalchip Innovations</a></em></td>
+    <td align="right" style="border:none; padding:0; text-align:right; width:30%; white-space:nowrap;"><strong>Mar 2012 - May 2015</strong><br/><em>Bangalore, India</em></td>
   </tr>
 </table>
 
@@ -177,10 +179,10 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 - [View Details](past-experiences/signalchip.md)
 
 <hr/>
-<table width="100%">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
   <tr>
-    <td><strong><a href="past-experiences/iisc.md">Junior Research Fellow</a></strong><br/><em><a href="https://www.iisc.ac.in/">Indian Institute of Science</a></em></td>
-    <td align="right"><strong>Jun 2011 - Feb 2012</strong><br/><em>Bangalore, India</em></td>
+    <td style="border:none; padding:0; width:70%;"><strong><a href="past-experiences/iisc.md">Junior Research Fellow</a></strong><br/><em><a href="https://www.iisc.ac.in/">Indian Institute of Science</a></em></td>
+    <td align="right" style="border:none; padding:0; text-align:right; width:30%; white-space:nowrap;"><strong>Jun 2011 - Feb 2012</strong><br/><em>Bangalore, India</em></td>
   </tr>
 </table>
 
@@ -191,10 +193,10 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 - [View Details](past-experiences/iisc.md)
 
 <hr/>
-<table width="100%">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
   <tr>
-    <td><strong><a href="past-experiences/bachelors.md">Bachelor of Engineering in Electronics and Communication</a></strong><br/><em><a href="https://rvce.edu.in/">RVCE (R.V. College of Engineering)</a></em></td>
-    <td align="right"><strong>Aug 2007 - May 2011</strong><br/><em>Bangalore, India</em></td>
+    <td style="border:none; padding:0; width:70%;"><strong><a href="past-experiences/bachelors.md">Bachelor of Engineering in Electronics and Communication</a></strong><br/><em><a href="https://rvce.edu.in/">RVCE (R.V. College of Engineering)</a></em></td>
+    <td align="right" style="border:none; padding:0; text-align:right; width:30%; white-space:nowrap;"><strong>Aug 2007 - May 2011</strong><br/><em>Bangalore, India</em></td>
   </tr>
 </table>
 
