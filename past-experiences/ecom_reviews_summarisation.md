@@ -1,23 +1,13 @@
----
-title: 'LLM Generated Review Summaries'
-summary: 'Implemented automated review summarisation using LLMs to surface key insights and sentiment for shoppers'
-date: '2023-01-15'
-category: 'Consultant ML Engineer for mid sized European E-commerce marketplace'
-categoryDuration: 'Aug 2022 - Oct 2025'
-role: 'Consultant ML Engineer'
-duration: ''
-location: 'Remote - Europe'
-techStack:
-  - 'Python'
-  - 'LLMs'
-  - 'AWS Lambda'
-  - 'NLP'
-highlights:
-  - 'Automated summarisation of product reviews'
-  - 'Extracted key sentiment and feature insights'
-  - 'Improved product page engagement'
-order: 4
----
+# LLM Generated Review Summaries
+
+
+> **Role:** Consultant ML Engineer
+> **Context:** Mid-sized European E-commerce marketplace (multi-country, broad product catalog, few thousand daily orders)
+
+
+> 'Automated summarisation of product reviews'
+> 'Extracted key sentiment and feature insights'
+> 'Improved product page engagement'
 
 
 ##

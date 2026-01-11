@@ -1,213 +1,214 @@
-# Past Experiences
+# Past Experiences, Education
 
-Reverse-chronological list extracted from YAML frontmatter in this folder.
 
-## RAG-Powered Search & Discovery
-<div align="right"><strong>Date:</strong> Sep 2023</div>
+> Senior Machine Learning Engineer with 5+ years delivering production ML at reasonable scale + GenAI systems across e-commerce, IoT, and computer vision. Specialized in end-to-end delivery (problem framing → architecture → pipelines → deployment → evaluation → monitoring) with measurable business impact. Strong at translating ambiguous goals into pragmatic roadmaps and optimizing for ROI (cost, latency, quality) on AWS
 
-**Role:** Consultant ML Engineer  
-**Engagement:** Consultant ML Engineer for mid sized European E-commerce marketplace  
-**Dates:** Aug 2022 - Oct 2025  
-**Location:** Remote - Europe  
-**Tech Stack:** Python, LLMs, Vector Search, RAG Architecture, AWS, Embeddings
 
-**Summary:** Built a production-grade RAG system that improved search-to-purchase conversion by 4% and reduced "no results" by 30%
+<table style="border: none;">
+<tr>
+<th style="border: none;"><img width="600" height="1"></th>
+<th style="border: none;"><img width="200" height="1"></th>
+</tr>
+<tr>
+<td style="border: none;">
 
-**Highlights**
-- 4% improvement in search-to-purchase conversion
-- 30% reduction in "no results found" searches
-- Sub-500ms p99 latency at scale
-- ~0.1 cents/query inference cost with 5x ROI
+**ML Engineer (Consultant)**<br/>
+*Mid sized European E-commerce marketplace*
 
-[View Details](ecom_rag_product_catalog.md)
+</td>
+<td align="right" style="border: none;">
 
-## Customer Lifetime Value (CLV) Prediction
-<img src="../logos/ecommerce.png" align="right" width="90" alt="Customer Lifetime Value (CLV) Prediction logo" />
-<div align="right"><strong>Date:</strong> Jun 2023</div>
+**Aug 2022 - Oct 2025**<br/>
+*Remote*
 
-**Role:** Consultant ML Engineer  
-**Engagement:** Consultant ML Engineer for mid sized European E-commerce marketplace  
-**Dates:** Aug 2022 - Oct 2025  
-**Location:** Remote - Europe  
-**Tech Stack:** Python, XGBoost, AWS SageMaker, AWS Glue, AWS Step Functions, Terraform, CloudWatch
+</td>
+</tr>
+</table>
 
-**Summary:** Built a production CLV prediction system that improved marketing ROI by 12% through value-based customer targeting and segmentation
+- **<a href="past-experiences/ecom_rag_product_catalog.md">RAG-Powered Search & Discovery</a>**
+  - Built a production-grade RAG system that improved search-to-purchase conversion by 4% and reduced "no results" by 30%
+  - Sub-500ms p99 latency
+  - [View Details](past-experiences/ecom_rag_product_catalog.md)
+- **<a href="past-experiences/ecom_customer_lifetime_value.md">Customer Lifetime Value (CLV) Prediction</a>**
+  - Built a production CLV prediction system that improved marketing ROI by 12% through value-based customer targeting and segmentation
+  - 12% higher marketing ROI on CLV-driven campaigns
+  - 10% relative reduction in churn among high-value cohorts
+  - [View Details](past-experiences/ecom_customer_lifetime_value.md)
+- **<a href="past-experiences/ecom_purchase_propensity.md">Real-Time Purchase Intent Scoring</a>**
+  - Deployed a session-level purchase propensity model achieving 5% conversion uplift with 40% reduction in p99 latency through Redis optimization
+  - 5% relative uplift in overall conversion rate
+  - 3.5% uplift in AOV among users with model-driven offers
+  - 40% reduction in p99 inference latency through Redis optimization
+  - Real-time feature engineering with Spark Structured Streaming
+  - [View Details](past-experiences/ecom_purchase_propensity.md)
+- **<a href="past-experiences/ecom_reviews_summarisation.md">LLM Generated Review Summaries</a>**
+  - Implemented automated review summarisation using LLMs to surface key insights and sentiment for shoppers
+  - Automated summarisation of product reviews
+  - Extracted key sentiment and feature insights
+  - Improved product page engagement
+  - [View Details](past-experiences/ecom_reviews_summarisation.md)
 
-**Highlights**
-- 12% higher marketing ROI on CLV-driven campaigns
-- 10% relative reduction in churn among high-value cohorts
-- 7% uplift in conversion rates for CLV-based campaigns
-- Weekly batch inference costing only EUR75/month
+<table style="border: none;">
+<tr>
+<th style="border: none;"><img width="600" height="1"></th>
+<th style="border: none;"><img width="200" height="1"></th>
+</tr>
+<tr>
+<td style="border: none;">
 
-[View Details](ecom_customer_lifetime_value.md)
+**ML Engineer**<br/>
+*[eSMART Technologies](https://myesmart.com/en/)*
 
-## Real-Time Purchase Intent Scoring
-<div align="right"><strong>Date:</strong> Mar 2023</div>
+</td>
+<td align="right" style="border: none;">
 
-**Role:** Consultant ML Engineer  
-**Engagement:** Consultant ML Engineer for mid sized European E-commerce marketplace  
-**Dates:** Aug 2022 - Oct 2025  
-**Location:** Remote - Europe  
-**Tech Stack:** Python, LightGBM, Spark Structured Streaming, Feast Feature Store, Redis/ElastiCache, AWS Kinesis, AWS EMR, AWS Step Functions
+**Jun 2018 - Dec 2020**<br/>
+*Remote*
 
-**Summary:** Deployed a session-level purchase propensity model achieving 5% conversion uplift with 40% reduction in p99 latency through Redis optimization
+</td>
+</tr>
+</table>
 
-**Highlights**
-- 5% relative uplift in overall conversion rate
-- 3.5% uplift in AOV among users with model-driven offers
-- 40% reduction in p99 inference latency through Redis optimization
-- Real-time feature engineering with Spark Structured Streaming
+- **<a href="past-experiences/iot_anomaly.md">IoT Predictive Maintenance & Heating System Anomaly Detection</a>**
+  - Built an anomaly detection system that reduced emergency maintenance callouts by 20% through early fault detection
+  - Estimated 15-20% improvement in maintenance efficiency
+  - 75% precision@50 for high-priority alerts
+  - Human-in-the-loop validation workflow
+  - [View Details](past-experiences/iot_anomaly.md)
+- **<a href="past-experiences/iot_forecasting.md">Building-Level Energy Forecasting & Smart Energy Advisor</a>**
+  - Developed time-series forecasting models for building energy optimization and smart heating schedules
+  - <10% MAPE across seasonal variations
+  - ~15% increase in user engagement with energy tools
+  - ~10pp increase in solar self-consumption among participating households
+  - [View Details](past-experiences/iot_forecasting.md)
 
-[View Details](ecom_purchase_propensity.md)
+<table style="border: none;">
+<tr>
+<th style="border: none;"><img width="600" height="1"></th>
+<th style="border: none;"><img width="200" height="1"></th>
+</tr>
+<tr>
+<td style="border: none;">
 
-## LLM Generated Review Summaries
-<div align="right"><strong>Date:</strong> Jan 2023</div>
+**[Master of Science in Communication Systems](past-experiences/masters.md)**<br/>
+*[EPFL (Ecole polytechnique federale de Lausanne)](https://www.epfl.ch/en/)*
 
-**Role:** Consultant ML Engineer  
-**Engagement:** Consultant ML Engineer for mid sized European E-commerce marketplace  
-**Dates:** Aug 2022 - Oct 2025  
-**Location:** Remote - Europe  
-**Tech Stack:** Python, LLMs, AWS Lambda, NLP
+</td>
+<td align="right" style="border: none;">
 
-**Summary:** Implemented automated review summarisation using LLMs to surface key insights and sentiment for shoppers
+**Sep 2015 - May 2018**<br/>
+*Lausanne, Switzerland*
 
-**Highlights**
-- Automated summarisation of product reviews
-- Extracted key sentiment and feature insights
-- Improved product page engagement
+</td>
+</tr>
+</table>
 
-[View Details](ecom_reviews_summarisation.md)
-
-## IoT Predictive Maintenance & Heating System Anomaly Detection
-<img src="../logos/esmart.png" align="right" width="90" alt="IoT Predictive Maintenance & Heating System Anomaly Detection logo" />
-<div align="right"><strong>Date:</strong> Nov 2022</div>
-
-**Role:** ML Engineer  
-**Organization:** [eSMART Technologies](https://myesmart.com/en/)  
-**Engagement:** ML Engineer at eSMART Technologies  
-**Dates:** Jun 2018 - Dec 2020  
-**Location:** Remote  
-**Tech Stack:** Python, scikit-learn, Time Series Analytics, MLOps Pipelines, Anomaly Detection
-
-**Summary:** Built an anomaly detection system that reduced emergency maintenance callouts by 20% through early fault detection
-
-**Highlights**
-- 20% reduction in emergency maintenance callouts
-- Estimated 15-20% improvement in maintenance efficiency
-- 75% precision@50 for high-priority alerts
-- Human-in-the-loop validation workflow
-
-[View Details](iot_anomaly.md)
-
-## Building-Level Energy Forecasting & Smart Energy Advisor
-<div align="right"><strong>Date:</strong> Aug 2022</div>
-
-**Role:** ML Engineer  
-**Organization:** [eSMART Technologies](https://myesmart.com/en/)  
-**Engagement:** ML Engineer at eSMART Technologies  
-**Dates:** Jun 2018 - Dec 2020  
-**Location:** Remote  
-**Tech Stack:** Python, Time Series Models, IoT Data Processing, Forecasting
-
-**Summary:** Developed time-series forecasting models for building energy optimization and smart heating schedules
-
-**Highlights**
-- <10% MAPE across seasonal variations
-- ~15% increase in user engagement with energy tools
-- ~10pp increase in solar self-consumption among participating households
-
-[View Details](iot_forecasting.md)
-
-## Master of Science in Communication Systems
-<img src="../logos/epfl.png" align="right" width="90" alt="Master of Science in Communication Systems logo" />
-<div align="right"><strong>Date:</strong> Mar 2018</div>
-
-**Organization:** [EPFL (École polytechnique fédérale de Lausanne)](https://www.epfl.ch/en/)  
-**Engagement:** Education  
-**Dates:** 2015 - 2018  
-**Location:** Lausanne, Switzerland  
-**Tech Stack:** Machine Learning, Applied Data Analysis, Computer Vision, Algorithms
-
-**Highlights**
 - Master Thesis: Data Analysis & Anomaly Detection in Buildings using Sensor Data
 - Built unsupervised anomaly detection system for predictive maintenance in smart buildings
 - Grade: 5.25 / 6.0
+- [View Details](past-experiences/masters.md)
 
-[View Details](masters.md)
+<table style="border: none;">
+<tr>
+<th style="border: none;"><img width="600" height="1"></th>
+<th style="border: none;"><img width="200" height="1"></th>
+</tr>
+<tr>
+<td style="border: none;">
 
-## Machine Learning Research Intern at NEC Labs America
-<img src="../logos/nec.png" align="right" width="90" alt="Machine Learning Research Intern at NEC Labs America logo" />
-<div align="right"><strong>Date:</strong> Jul 2017</div>
+**[Machine Learning Research Intern](past-experiences/nec.md)**<br/>
+*[NEC Labs America](https://www.nec-labs.com/)*
 
-**Role:** Machine Learning Research Intern  
-**Organization:** [NEC Labs America](https://www.nec-labs.com/)  
-**Engagement:** Machine Learning Research Intern at NEC Labs America  
-**Dates:** Feb 2017 - Jul 2017  
-**Location:** Princeton, New Jersey, USA  
-**Tech Stack:** Python, PyTorch, YOLOv2, Deep Learning, Computer Vision, Object Detection, Scene Understanding, OpenCV
+</td>
+<td align="right" style="border: none;">
 
-**Summary:** Research internship focused on deep learning for computer vision, implementing object detection and scene understanding systems using YOLOv2 and PyTorch
+**Feb 2017 - Jul 2017**<br/>
+*Princeton, NJ, USA*
 
-**Highlights**
+</td>
+</tr>
+</table>
+
 - Fine-tuned YOLOv2 for custom object detection in traffic surveillance datasets
 - Developed relationship detector for scene understanding using deep learning
 - Applied transfer learning techniques for domain-specific object detection
+- [View Details](past-experiences/nec.md)
 
-[View Details](nec.md)
+<table style="border: none;">
+<tr>
+<th style="border: none;"><img width="600" height="1"></th>
+<th style="border: none;"><img width="200" height="1"></th>
+</tr>
+<tr>
+<td style="border: none;">
 
-## Signal Processing Engineer at Signalchip Innovations
-<img src="../logos/signalchip.png" align="right" width="90" alt="Signal Processing Engineer at Signalchip Innovations logo" />
-<div align="right"><strong>Date:</strong> May 2015</div>
+**[Signal Processing Engineer](past-experiences/signalchip.md)**<br/>
+*[Signalchip Innovations](https://www.signalchip.com/)*
 
-**Role:** Signal Processing Engineer  
-**Organization:** [Signalchip Innovations](https://www.signalchip.com/)  
-**Engagement:** Other  
-**Dates:** Mar 2012 - May 2015  
-**Location:** Bangalore, India  
-**Tech Stack:** WCDMA, LTE, Octave, Digital Signal Processing, Wireless Communications, Path Searcher, Rake Receiver, Channel Estimation, Multiuser Detection
+</td>
+<td align="right" style="border: none;">
 
-**Summary:** Worked on multi-user detection algorithms for WCDMA/LTE systems, contributing to 2 US patents in wireless communications signal processing
+**Mar 2012 - May 2015**<br/>
+*Bangalore, India*
 
-**Highlights**
+</td>
+</tr>
+</table>
+
 - Joined as 5th employee of semiconductor startup, contributing to core signal processing algorithms
 - Patent: Developed symbol level interference cancellation method (US Patent 9602240)
 - Patent: Developed optimized channel estimation system reducing computational complexity (US Patent 20160365991)
 - Implemented Path Searcher, Rake Receiver and Multi-user Detection algorithms for WCDMA
 - Developed PRACH signal detection algorithms for LTE systems
+- [View Details](past-experiences/signalchip.md)
 
-[View Details](signalchip.md)
+<table style="border: none;">
+<tr>
+<th style="border: none;"><img width="600" height="1"></th>
+<th style="border: none;"><img width="200" height="1"></th>
+</tr>
+<tr>
+<td style="border: none;">
 
-## Junior Research Fellow at Indian Institute of Science
-<img src="../logos/iisc.png" align="right" width="90" alt="Junior Research Fellow at Indian Institute of Science logo" />
-<div align="right"><strong>Date:</strong> Feb 2012</div>
+**[Junior Research Fellow](past-experiences/iisc.md)**<br/>
+*[Indian Institute of Science](https://www.iisc.ac.in/)*
 
-**Role:** Junior Research Fellow  
-**Organization:** [Indian Institute of Science](https://www.iisc.ac.in/)  
-**Engagement:** Other  
-**Dates:** Jun 2011 - Feb 2012  
-**Location:** Bangalore, India  
-**Tech Stack:** MATLAB, Diffuse Optical Tomography, Image Reconstruction, Inverse Problems, Optimization Algorithms, Medical Imaging, Regularization Theory
+</td>
+<td align="right" style="border: none;">
 
-**Summary:** Research fellowship focused on developing efficient image reconstruction algorithms for Diffuse Optical Tomography, resulting in a published paper in Medical Physics journal
+**Jun 2011 - Feb 2012**<br/>
+*Bangalore, India*
 
-**Highlights**
+</td>
+</tr>
+</table>
+
 - Published first-author paper in Medical Physics journal
 - Developed data-resolution matrix based optimization method for diffuse optical tomography
 - Reduced data collection time by identifying independent measurements without compromising image quality
 - Implemented efficient algorithms achieving 20% higher independent measurements than traditional methods
+- [View Details](past-experiences/iisc.md)
 
-[View Details](iisc.md)
+<table style="border: none;">
+<tr>
+<th style="border: none;"><img width="600" height="1"></th>
+<th style="border: none;"><img width="200" height="1"></th>
+</tr>
+<tr>
+<td style="border: none;">
 
-## Bachelor of Engineering in Electronics and Communication
-<img src="../logos/rvce.png" align="right" width="90" alt="Bachelor of Engineering in Electronics and Communication logo" />
-<div align="right"><strong>Date:</strong> Jun 2011</div>
+**[Bachelor of Engineering in Electronics and Communication](past-experiences/bachelors.md)**<br/>
+*[RVCE (R.V. College of Engineering)](https://rvce.edu.in/)*
 
-**Organization:** [RVCE (R.V. College of Engineering)](https://rvce.edu.in/)  
-**Engagement:** Education  
-**Dates:** 2007 - 2011  
-**Location:** Bangalore, India  
+</td>
+<td align="right" style="border: none;">
 
-**Highlights**
+**Aug 2007 - May 2011**<br/>
+*Bangalore, India*
+
+</td>
+</tr>
+</table>
+
 - Graduated with distinction - CGPA 9.23 / 10.0
-
-[View Details](bachelors.md)
+- [View Details](past-experiences/bachelors.md)

@@ -1,32 +1,15 @@
----
-title: 'Real-Time Purchase Intent Scoring'
-summary: 'Deployed a session-level purchase propensity model achieving 5% conversion uplift with 40% reduction in p99 latency through Redis optimization'
-date: '2023-03-20'
-category: 'Consultant ML Engineer for mid sized European E-commerce marketplace'
-categoryDuration: 'Aug 2022 - Oct 2025'
-role: 'Consultant ML Engineer'
-duration: ''
-location: 'Remote - Europe'
-techStack:
-  - 'Python'
-  - 'LightGBM'
-  - 'Spark Structured Streaming'
-  - 'Feast Feature Store'
-  - 'Redis/ElastiCache'
-  - 'AWS Kinesis'
-  - 'AWS EMR'
-  - 'AWS Step Functions'
-highlights:
-  - '5% relative uplift in overall conversion rate'
-  - '3.5% uplift in AOV among users with model-driven offers'
-  - '40% reduction in p99 inference latency through Redis optimization'
-  - 'Real-time feature engineering with Spark Structured Streaming'
-featured: true
-order: 2
----
+# Real-Time Purchase Intent Scoring
+
 
 > **Role:** Consultant ML Engineer
 > **Context:** Mid-sized European E-commerce marketplace (multi-country, broad product catalog, few thousand daily orders)
+
+
+> '5% relative uplift in overall conversion rate'
+> '3.5% uplift in AOV among users with model-driven offers'
+> '40% reduction in p99 inference latency through Redis optimization'
+> 'Real-time feature engineering with Spark Structured Streaming'
+
 
 ---
 

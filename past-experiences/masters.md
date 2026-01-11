@@ -1,26 +1,5 @@
----
-title: 'Master of Science in Communication Systems'
-institution: 'EPFL (École polytechnique fédérale de Lausanne)'
-location: 'Lausanne, Switzerland'
-degree: 'Master of Science'
-field: 'Communication Systems'
-duration: '2015 – 2018'
-grade: '5.25 / 6.0'
-date: '2018-03-01'
-category: 'Education'
-order: 1
-websiteUrl: 'https://www.epfl.ch/en/'
-logo: '/logos/epfl.png'
-highlights:
-  - 'Master Thesis: Data Analysis & Anomaly Detection in Buildings using Sensor Data'
-  - 'Built unsupervised anomaly detection system for predictive maintenance in smart buildings'
-  - 'Grade: 5.25 / 6.0'
-techStack:
-  - 'Machine Learning'
-  - 'Applied Data Analysis'
-  - 'Computer Vision'
-  - 'Algorithms'
----
+# Master of Science in Communication Systems
+
 
 ## Institution
 
@@ -28,13 +7,13 @@ techStack:
 
 **Grade:** 5.25 / 6.0
 
-![EPFL Master's Degree](/education/masters_degree.png)
+![EPFL Master's Degree](/past-experiences/education/masters_degree.png)
 
-![EPFL Transcript](/education/masters_transcript.png)
+![EPFL Transcript](/past-experiences/education/masters_transcript.png)
 
 ---
 
-## Master's Thesis: Data Analysis & Anomaly Detection in Buildings using Sensor Data
+## [Master's Thesis: Data Analysis & Anomaly Detection in Buildings using Sensor Data](/past-experiences/education/masters_thesis.pdf)
 
 **Supervisors:** Prof. Martin Rajman (EPFL), Fabrizio Lo Conte (eSMART Technologies Ltd)
 **Completion Date:** March 2018

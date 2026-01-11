@@ -1,33 +1,14 @@
----
-title: 'RAG-Powered Search & Discovery'
-summary: 'Built a production-grade RAG system that improved search-to-purchase conversion by 4% and reduced "no results" by 30%'
-date: '2023-09-10'
-category: 'Consultant ML Engineer for mid sized European E-commerce marketplace'
-categoryDuration: 'Aug 2022 - Oct 2025'
-role: 'Consultant ML Engineer'
-duration: ''
-location: 'Remote - Europe'
-techStack:
-  - 'Python'
-  - 'LLMs'
-  - 'Vector Search'
-  - 'RAG Architecture'
-  - 'AWS'
-  - 'Embeddings'
-highlights:
-  - '4% improvement in search-to-purchase conversion'
-  - '30% reduction in "no results found" searches'
-  - 'Sub-500ms p99 latency at scale'
-  - '~0.1 cents/query inference cost with 5× ROI'
-featured: true
-order: 3
----
+# RAG-Powered Search & Discovery
 
-##
-
-> **Role:** Consultant ML Engineer  
+> **Role:** Consultant ML Engineer
 > **Context:** Mid-sized European E-commerce marketplace (multi-country, broad product catalog, few thousand daily orders)
 
+> '4% improvement in search-to-purchase conversion'
+> '30% reduction in "no results found" searches'
+> 'Sub-500ms p99 latency'
+
+
+##
 
 ### The Problem
 
@@ -157,7 +138,6 @@ After staged rollout and controlled experiments:
 * **~4% relative improvement in search-to-purchase conversion**
 * **~30% reduction in “no results found” searches**
 * **Stable sub-500ms p99 latency**, including during traffic spikes
-* **Inference cost reduced to ~0.1 cents/query**, yielding **~5× ROI on inference spend**
 
 Importantly, these gains were achieved **without introducing heavy operational complexity or runaway costs**.
 

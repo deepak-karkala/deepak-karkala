@@ -1,29 +1,23 @@
----
-title: 'Signal Processing Engineer at Signalchip Innovations'
-summary: 'Worked on multi-user detection algorithms for WCDMA/LTE systems, contributing to 2 US patents in wireless communications signal processing'
-date: '2015-05-01'
-category: 'Other'
-role: 'Signal Processing Engineer'
-company: 'Signalchip Innovations'
-websiteUrl: 'https://www.signalchip.com/'
-duration: 'Mar 2012 – May 2015'
-location: 'Bangalore, India'
-logo: '/logos/signalchip.png'
-techStack: ['WCDMA', 'LTE', 'Octave', 'Digital Signal Processing', 'Wireless Communications', 'Path Searcher', 'Rake Receiver', 'Channel Estimation', 'Multiuser Detection']
-highlights: [
-  'Joined as 5th employee of semiconductor startup, contributing to core signal processing algorithms',
-  'Patent: Developed symbol level interference cancellation method (US Patent 9602240)',
-  'Patent: Developed optimized channel estimation system reducing computational complexity (US Patent 20160365991)',
-  'Implemented Path Searcher, Rake Receiver and Multi-user Detection algorithms for WCDMA',
-  'Developed PRACH signal detection algorithms for LTE systems'
-]
-featured: true
-order: 1
----
+# Signal Processing Engineer at Signalchip Innovations
+
+> Mar 2012 – May 2015
+> Bangalore, India
+
+
+> 'Joined as 5th employee of semiconductor startup, contributing to core signal processing algorithms',
+> 'Patent: Developed symbol level interference cancellation method (US Patent 9602240)',
+> 'Patent: Developed optimized channel estimation system reducing computational complexity (US Patent 20160365991)',
+> 'Implemented Path Searcher, Rake Receiver and Multi-user Detection algorithms for WCDMA',
+> 'Developed PRACH signal detection algorithms for LTE systems'
+
+
+> ['WCDMA', 'LTE', 'Octave', 'Digital Signal Processing', 'Wireless Communications', 'Path Searcher', 'Rake Receiver', 'Channel Estimation', 'Multiuser Detection']
+
+
 
 ## Overview
 
-As the fifth employee at Signalchip Innovations, a semiconductor startup, I worked on developing advanced signal processing algorithms for wireless communications systems. My work focused on solving critical challenges in WCDMA and LTE base station receivers, particularly in the areas of multi-user detection, channel estimation, and interference cancellation.
+As the fifth employee at [Signalchip Innovations](https://www.signalchip.com/), a semiconductor startup, I worked on developing signal processing algorithms for wireless communications systems. My work focused on solving critical challenges in WCDMA and LTE base station receivers, particularly in the areas of multi-user detection, channel estimation, and interference cancellation.
 
 ## Key Contributions
 

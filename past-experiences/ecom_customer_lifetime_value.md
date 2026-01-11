@@ -1,29 +1,12 @@
----
-title: 'Customer Lifetime Value (CLV) Prediction'
-summary: 'Built a production CLV prediction system that improved marketing ROI by 12% through value-based customer targeting and segmentation'
-date: '2023-06-15'
-category: 'Consultant ML Engineer for mid sized European E-commerce marketplace'
-categoryDuration: 'Aug 2022 - Oct 2025'
-role: 'Consultant ML Engineer'
-duration: ''
-location: 'Remote - Europe'
-logo: '/logos/ecommerce.png'
-techStack:
-  - 'Python'
-  - 'XGBoost'
-  - 'AWS SageMaker'
-  - 'AWS Glue'
-  - 'AWS Step Functions'
-  - 'Terraform'
-  - 'CloudWatch'
-highlights:
-  - '12% higher marketing ROI on CLV-driven campaigns'
-  - '10% relative reduction in churn among high-value cohorts'
-  - '7% uplift in conversion rates for CLV-based campaigns'
-  - 'Weekly batch inference costing only €75/month'
-featured: true
-order: 1
----
+# Customer Lifetime Value (CLV) Prediction
+
+> **Role:** Consultant ML Engineer
+> **Context:** Mid-sized European E-commerce marketplace (multi-country, broad product catalog, few thousand daily orders)
+
+> '12% higher marketing ROI on CLV-driven campaigns'
+> '10% relative reduction in churn among high-value cohorts'
+> 'Weekly batch inference costing only €75/month'
+
 
 ##
 
@@ -262,7 +245,6 @@ We validated the CLV system via a **customer-level A/B test**:
 
 * **~12% higher marketing ROI** on CLV-driven campaigns
 * **~10% relative reduction in churn** among high-value cohorts (90-day horizon)
-* **~7% uplift in conversion rates** for CLV-based campaigns
 
 ---
 

@@ -1,24 +1,10 @@
----
-title: 'Junior Research Fellow at Indian Institute of Science'
-summary: 'Research fellowship focused on developing efficient image reconstruction algorithms for Diffuse Optical Tomography, resulting in a published paper in Medical Physics journal'
-date: '2012-02-01'
-category: 'Other'
-role: 'Junior Research Fellow'
-institution: 'Indian Institute of Science'
-websiteUrl: 'https://www.iisc.ac.in/'
-duration: 'Jun 2011 – Feb 2012'
-location: 'Bangalore, India'
-logo: '/logos/iisc.png'
-techStack: ['MATLAB', 'Diffuse Optical Tomography', 'Image Reconstruction', 'Inverse Problems', 'Optimization Algorithms', 'Medical Imaging', 'Regularization Theory']
-highlights: [
-  'Published first-author paper in Medical Physics journal',
-  'Developed data-resolution matrix based optimization method for diffuse optical tomography',
-  'Reduced data collection time by identifying independent measurements without compromising image quality',
-  'Implemented efficient algorithms achieving 20% higher independent measurements than traditional methods'
-]
-featured: true
-order: 3
----
+# Junior Research Fellow at Indian Institute of Science
+
+> 'Published first-author paper in Medical Physics journal',
+> 'Developed data-resolution matrix based optimization method for diffuse optical tomography',
+> 'Reduced data collection time by identifying independent measurements without compromising image quality',
+> 'Implemented efficient algorithms achieving 20% higher independent measurements than traditional methods'
+
 
 ## Overview
 

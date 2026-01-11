@@ -1,25 +1,13 @@
----
-title: 'Building-Level Energy Forecasting & Smart Energy Advisor'
-summary: 'Developed time-series forecasting models for building energy optimization and smart heating schedules'
-date: '2022-08-10'
-category: 'ML Engineer at eSMART Technologies'
-categoryDuration: 'Jun 2018 - Dec 2020'
-role: 'ML Engineer'
-company: 'eSMART Technologies'
-websiteUrl: 'https://myesmart.com/en/'
-duration: ''
-location: 'Remote'
-techStack:
-  - 'Python'
-  - 'Time Series Models'
-  - 'IoT Data Processing'
-  - 'Forecasting'
-highlights:
-  - '<10% MAPE across seasonal variations'
-  - '~15% increase in user engagement with energy tools'
-  - '~10pp increase in solar self-consumption among participating households'
-order: 6
----
+# Building-Level Energy Forecasting & Smart Energy Advisor
+
+> ML Engineer
+> [eSMART Technologies](https://myesmart.com/en/), Renens Switzerland
+> Developed time-series forecasting models for building energy optimization and smart heating schedules
+
+> '<10% MAPE across seasonal variations'
+> '~15% increase in user engagement with energy tools'
+> '~10pp increase in solar self-consumption among participating households'
+
 
 ##
 ---

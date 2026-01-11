@@ -25,17 +25,18 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 - [Building Agentic AI Products](#building-agentic-ai-products)
 - [Illustrated Guides](#illustrated-guides)
 - [Data Visualisation](#data-visualisation)
-- [About Me](#about-me)
+- [About Me: Past Experiences, Education](#about-me)
 
 
-## Playbooks
+## [Playbooks](playbooks/README.md)
+
 - [Stats for MLOps](playbooks/stats-for-mlops/README.md) - Statistical foundations and practical methods for monitoring, testing, and decision-making in production ML systems.
 - [MLOps Production Guide](playbooks/mlops-production-guide/README.md) - End-to-end playbook for building, deploying, monitoring, and improving production ML systems.
 - [GenAI Applications](playbooks/genai-applications/README.md) - Product strategy, architecture, evaluation, and deployment patterns for GenAI applications.
 - [AI Agents](playbooks/agents/README.md) - Design, orchestration, evaluation, and production best practices for AI agents.
 
 
-## Projects
+## [Projects](projects/README.md)
 
 - [Agentic MLOps Platform](projects/agentic-mlops.md)
   - An AI-powered multi-agent platform that designs, validates, and generates complete MLOps infrastructure—from requirements to deployment-ready code
@@ -52,7 +53,8 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
   - Multi-stage fine-tuning pipeline to create a reasoning-first physics tutor in Kannada, combining domain-specific SFT and RAG for intuitive, grounded explanations.
 
 
-## Building Agentic AI Products
+## [Building Agentic AI Products](agentic-ai-products/README.md)
+
 - [Technical Playbook - Building Effective Agentic AI Systems](agentic-ai-products/technical_playbook.md) - Production patterns for reliability, safety, evals, observability, and governance
 - [Agentic AI Product + Business Strategy Playbook](agentic-ai-products/product_business_playbook.md) - How to pick winning agent wedges, design adoption + distribution loops, price safely, and govern rollout
 - [Agentic Workflows Playbook: Skills x MCP x Context x Subagents](agentic-ai-products/agentic_workflows_skills_mcp_subagents.md) - Skills x MCP x Project Context x Subagents
@@ -67,13 +69,14 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
   - [Creative - "Writer's Room Copilot" (Script Writing)](agentic-ai-products/flagship_product_proposals/writer/product_description.md) - ICP: aspiring / professional screenwriters, showrunners, indie teams
 
 
-## Illustrated Guides
+## [Illustrated Guides](illustrated-guides/README.md)
+
 - [Illustrated RLHF](illustrated-guides/illustrated-rlhf.md) - An interactive web platform that transforms complex Reinforcement Learning from Human Feedback (RLHF) concepts into engaging visual learning experiences.
 - [DriftCity: Statistics for MLOps](illustrated-guides/stats-for-mlops.md) - An interactive educational platform that transforms how teams learn MLOps statistics by combining narrative storytelling, live visualizations, and production patterns.
 
 
 
-## Data Visualisation
+## [Data Visualisation](data-visualisation/README.md)
 
 - [How to measure rhythmic similarity of songs ?](http://deepakkarkala.com/data-visualisation/music/code/index.html) - Are Ed Sheeran's Shape of you and Sia's Cheap thrills rhythmically similar ?
 - [Airbnb and the tale of many cities](http://deepakkarkala.com/data-visualisation/airbnb/code/index.html) - An investigative report of Airbnb's constant battle against city governments across the world.
@@ -108,16 +111,12 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 
 - **<a href="past-experiences/ecom_rag_product_catalog.md">RAG-Powered Search & Discovery</a>**
   - Built a production-grade RAG system that improved search-to-purchase conversion by 4% and reduced "no results" by 30%
-  - 4% improvement in search-to-purchase conversion
-  - 30% reduction in "no results found" searches
-  - Sub-500ms p99 latency at scale
-  - ~0.1 cents/query inference cost with 5x ROI
+  - Sub-500ms p99 latency
   - [View Details](past-experiences/ecom_rag_product_catalog.md)
 - **<a href="past-experiences/ecom_customer_lifetime_value.md">Customer Lifetime Value (CLV) Prediction</a>**
   - Built a production CLV prediction system that improved marketing ROI by 12% through value-based customer targeting and segmentation
   - 12% higher marketing ROI on CLV-driven campaigns
   - 10% relative reduction in churn among high-value cohorts
-  - Weekly batch inference costing only EUR75/month
   - [View Details](past-experiences/ecom_customer_lifetime_value.md)
 - **<a href="past-experiences/ecom_purchase_propensity.md">Real-Time Purchase Intent Scoring</a>**
   - Deployed a session-level purchase propensity model achieving 5% conversion uplift with 40% reduction in p99 latency through Redis optimization
@@ -156,7 +155,6 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 
 - **<a href="past-experiences/iot_anomaly.md">IoT Predictive Maintenance & Heating System Anomaly Detection</a>**
   - Built an anomaly detection system that reduced emergency maintenance callouts by 20% through early fault detection
-  - 20% reduction in emergency maintenance callouts
   - Estimated 15-20% improvement in maintenance efficiency
   - 75% precision@50 for high-priority alerts
   - Human-in-the-loop validation workflow

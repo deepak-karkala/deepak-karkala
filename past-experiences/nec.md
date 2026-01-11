@@ -1,28 +1,21 @@
----
-title: 'Machine Learning Research Intern at NEC Labs America'
-summary: 'Research internship focused on deep learning for computer vision, implementing object detection and scene understanding systems using YOLOv2 and PyTorch'
-date: '2017-07-01'
-category: 'Machine Learning Research Intern at NEC Labs America'
-categoryDuration: 'Feb 2017 – Jul 2017'
-role: 'Machine Learning Research Intern'
-company: 'NEC Labs America'
-websiteUrl: 'https://www.nec-labs.com/'
-duration: 'Feb 2017 – Jul 2017'
-location: 'Princeton, New Jersey, USA'
-logo: '/logos/nec.png'
-techStack: ['Python', 'PyTorch', 'YOLOv2', 'Deep Learning', 'Computer Vision', 'Object Detection', 'Scene Understanding', 'OpenCV']
-highlights: [
-  'Fine-tuned YOLOv2 for custom object detection in traffic surveillance datasets',
-  'Developed relationship detector for scene understanding using deep learning',
-  'Applied transfer learning techniques for domain-specific object detection'
-]
-featured: true
-order: 2
----
+# Machine Learning Research Intern at NEC Labs America
+
+
+> [NEC Labs America, Princeton, USA](https://www.nec-labs.com/)
+> Feb 2017 – Jul 2017
+
+
+> 'Fine-tuned YOLOv2 for custom object detection in traffic surveillance datasets',
+> 'Developed relationship detector for scene understanding using deep learning',
+> 'Applied transfer learning techniques for domain-specific object detection'
+
+> ['Python', 'PyTorch', 'YOLOv2', 'Deep Learning', 'Computer Vision', 'Object Detection', 'Scene Understanding', 'OpenCV']
+
+
 
 ## Overview
 
-As a Machine Learning Research Intern at NEC Labs America in Princeton, New Jersey, my work focused on applying deep learning techniques to real-world problems in traffic surveillance and scene understanding, implementing and fine-tuning state-of-the-art models for custom object detection tasks.
+As a Machine Learning Research Intern at [NEC Labs America in Princeton, New Jersey](https://www.nec-labs.com/), my work focused on applying deep learning techniques to real-world problems in traffic surveillance and scene understanding, implementing and fine-tuning state-of-the-art models for custom object detection tasks.
 
 ## Key Contributions
 

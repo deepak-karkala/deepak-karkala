@@ -1,29 +1,15 @@
----
-title: 'IoT Predictive Maintenance & Heating System Anomaly Detection'
-summary: 'Built an anomaly detection system that reduced emergency maintenance callouts by 20% through early fault detection'
-date: '2022-11-20'
-category: 'ML Engineer at eSMART Technologies'
-categoryDuration: 'Jun 2018 - Dec 2020'
-role: 'ML Engineer'
-company: 'eSMART Technologies'
-websiteUrl: 'https://myesmart.com/en/'
-duration: ''
-location: 'Remote'
-logo: '/logos/esmart.png'
-techStack:
-  - 'Python'
-  - 'scikit-learn'
-  - 'Time Series Analytics'
-  - 'MLOps Pipelines'
-  - 'Anomaly Detection'
-highlights:
-  - '20% reduction in emergency maintenance callouts'
-  - 'Estimated 15-20% improvement in maintenance efficiency'
-  - '75% precision@50 for high-priority alerts'
-  - 'Human-in-the-loop validation workflow'
-featured: true
-order: 5
----
+# IoT Predictive Maintenance & Heating System Anomaly Detection
+
+> ML Engineer
+> [eSMART Technologies](https://myesmart.com/en/), Renens Switzerland
+> Built an anomaly detection system that reduced emergency maintenance callouts by 20% through early fault detection
+
+
+> '20% reduction in emergency maintenance callouts'
+> 'Estimated 15-20% improvement in maintenance efficiency'
+> '75% precision@50 for high-priority alerts'
+> 'Human-in-the-loop validation workflow'
+
 
 ##
 ---
