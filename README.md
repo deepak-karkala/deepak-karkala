@@ -1,6 +1,6 @@
 # Deepak Karkala
 
-Senior ML Engineer with 6+ years of experience in ML/AI (2018-present), shipping production ML systems delivering measurable business impact across e-commerce and IoT (12% higher marketing ROI, 5% conversion uplift, 4% search-to-purchase improvement, 20% reduction in maintenance callouts). Experience across the full ML lifecycle - problem framing, feature engineering, training, pipelines, evaluation, deployment and monitoring. Specialized in cost-effective, moderate-scale MLOps with minimal infrastructure footprint. Hands-on work in GenAI, Agentic AI, and multi-agent systems. Holder of 1 granted US patent and 1 pending US patent application.
+Senior ML Engineer with 6+ years of experience in ML/AI (2018-present), shipping production ML systems delivering measurable business impact across e-commerce and IoT (12% higher marketing ROI, 5% conversion uplift, 4% search-to-purchase improvement, 20% reduction in maintenance callouts). Experience across the full ML lifecycle - problem framing, feature engineering, training, pipelines, evaluation, deployment and monitoring. Specialized in cost-effective, moderate-scale MLOps with minimal infrastructure footprint. Hands-on work in GenAI, Agentic AI, and multi-agent systems. Holder of 1 granted US patent.
 
 
 ## Contact
@@ -22,7 +22,7 @@ Senior ML Engineer with 6+ years of experience in ML/AI (2018-present), shipping
 
 ## Explore My Work
 - [Playbooks](#playbooks)
-- [Projects](#projects)
+- [Product Prototypes](#projects)
 - [Building Agentic AI Products](#building-agentic-ai-products)
 - [Agentic Coding](#agentic-coding)
 - [Illustrated Guides](#illustrated-guides)
@@ -80,6 +80,7 @@ Senior ML Engineer with 6+ years of experience in ML/AI (2018-present), shipping
 
 
 ## [Agentic Coding](agentic-coding/README.md)
+
 - Claude Code Howto
   - [Claude Code Features](agentic-coding/claude_code_howto/claude_code_features.md)
   - [Claude Code Starter Kit](agentic-coding/claude_code_howto/claude_code_starter_kit.md)
@@ -90,7 +91,6 @@ Senior ML Engineer with 6+ years of experience in ML/AI (2018-present), shipping
   - [Oh-my-ClaudeCode](agentic-coding/claude_code_config/oh_my_claudecode.md)
 
 - [Claude Agent SDK](agentic-coding/claude_agent_sdk/claude_agent_sdk.md)
-
 - [How to build coding Agents](agentic-coding/how_to_build_coding_agents/how_to_build_coding_agents.md)
 
 
@@ -138,6 +138,9 @@ For [Building Agentic AI Products](agentic-ai-products/README.md), I have curate
 
 
 Academic background: MS Communication Systems (EPFL, Grade 5.25/6.0), BE Electronics (RVCE, CGPA 9.23/10.0). Prior work includes research at IISc ([Medical Physics publication](https://aapm.onlinelibrary.wiley.com/doi/10.1118/1.4736820)), signal processing at Signalchip ([1 US patent](https://patents.google.com/patent/US9602240B1/en?oq=9602240)), and ML research at NEC Labs America.
+
+
+## Past Experiences, Education
 
 
 <table style="border: none;">
