@@ -1,6 +1,7 @@
 # Deepak Karkala
 
-Senior Machine Learning Engineer with 5+ years delivering production ML at reasonable scale + GenAI systems across e-commerce, IoT, and computer vision. Specialized in end-to-end delivery (problem framing → architecture → pipelines → deployment → evaluation → monitoring) with measurable business impact. Strong at translating ambiguous goals into pragmatic roadmaps and optimizing for ROI (cost, latency, quality) on AWS
+Senior ML Engineer with 6+ years of experience in ML/AI (2018-present), shipping production ML systems delivering measurable business impact across e-commerce and IoT (12% higher marketing ROI, 5% conversion uplift, 4% search-to-purchase improvement, 20% reduction in maintenance callouts). Experience across the full ML lifecycle - problem framing, feature engineering, training, pipelines, evaluation, deployment and monitoring. Specialized in cost-effective, moderate-scale MLOps with minimal infrastructure footprint. Hands-on work in GenAI, Agentic AI, and multi-agent systems. Holder of 1 granted US patent and 1 pending US patent application.
+
 
 ## Contact
 <p align="center">
@@ -19,10 +20,11 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
   </a>
 </p>
 
-## Contents
+## Explore My Work
 - [Playbooks](#playbooks)
 - [Projects](#projects)
 - [Building Agentic AI Products](#building-agentic-ai-products)
+- [Agentic Coding](#agentic-coding)
 - [Illustrated Guides](#illustrated-guides)
 - [Data Visualisation](#data-visualisation)
 - [About Me: Past Experiences, Education](#about-me)
@@ -30,27 +32,34 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 
 ## [Playbooks](playbooks/README.md)
 
-- [Stats for MLOps](playbooks/stats-for-mlops/README.md) - Statistical foundations and practical methods for monitoring, testing, and decision-making in production ML systems.
+- [Essential Statistics for Production ML](playbooks/stats-for-mlops/README.md) - Statistical foundations and practical methods for monitoring, testing, and decision-making in production ML systems.
 - [MLOps Production Guide](playbooks/mlops-production-guide/README.md) - End-to-end playbook for building, deploying, monitoring, and improving production ML systems.
-- [GenAI Applications](playbooks/genai-applications/README.md) - Product strategy, architecture, evaluation, and deployment patterns for GenAI applications.
-- [AI Agents](playbooks/agents/README.md) - Design, orchestration, evaluation, and production best practices for AI agents.
+- [Building GenAI Applications: From Prototype to Production](playbooks/genai-applications/README.md) - Product strategy, architecture, evaluation, and deployment patterns for GenAI applications.
+- [AI Agents Playbook for Tech Leads](playbooks/agents/README.md) - Design, orchestration, evaluation, and production best practices for AI agents.
 
 
-## [Projects](projects/README.md)
+## [Product Prototypes](projects/README.md)
 
 - [Agentic MLOps Platform](projects/agentic-mlops.md)
   - An AI-powered multi-agent platform that designs, validates, and generates complete MLOps infrastructure—from requirements to deployment-ready code
-  - [Live Demo](), [Source](https://github.com/deepak-karkala/agentic-mlops)
+  - LangGraph-orchestrated multi-agent workflow with real-time streaming of model reasoning (SSE) for transparency, database-backed job queue for persistence, human-in-the-loop checkpoints for approvals, clarifications.
+  - Built using spec-driven agentic coding (BMAD-method).
+  - [Live Demo](https://frontend-production-f68d.up.railway.app/), [Source](https://github.com/deepak-karkala/agentic-mlops)
 
 - [Learn With AI](projects/learn-with-ai.md)
   - AI-powered learning platform transforming system design interview preparation through interactive tutoring, real-time whiteboard feedback, and comprehensive progress tracking
   - [Live Demo](https://frontend-ochre-beta-40.vercel.app/chat), [Source](https://github.com/deepak-karkala/learn-with-ai)
 
 - [Teaching an Open-Source LLM to Write The Office](https://www.deepakkarkala/products/ai-scriptwriter)
-  - Fine-tuning a reasoning-first LLM to generate sitcom screenplays with on-brand humor, character voice, and multi-step setups.
+  - Fine-tuning a reasoning-first LLM to generate sitcom screenplays with on-brand humor, character voice, and multi-step setups. Fine-tuned Gemma 1B for *The Office*-style screenplay generation using SFT, RFT. Published dataset and models on HuggingFace.
+  - Developed a structured "reasoning trace to screenplay" format to improve multi-step comedic setup/payoff. Used LLM-as-judge as model grader (weighted rubric across character consistency, humor, pacing, and format), and used reward curves + score distributions to track improvements from Base Model to SFT to RFT.
+  - [Office Script Reasoning Dataset](https://huggingface.co/datasets/deepakkarkala/sitcom_storylines_reasoning), [SFT Model](https://huggingface.co/deepakkarkala/gemma3-1b-sft-sitcom-office-reasoning), [RFT Model](https://huggingface.co/deepakkarkala/gemma3-1b-rft-sitcom-office-reasoning) 
 
 - [Building a Kannada Physics Tutor LLM with Feynman-Style Explanations](https://www.deepakkarkala/products/ai-feynman-kannada-tutor)
   - Multi-stage fine-tuning pipeline to create a reasoning-first physics tutor in Kannada, combining domain-specific SFT and RAG for intuitive, grounded explanations.
+  - Created a novel Kannada physics reasoning dataset and fine-tuned Gemma-3 1B via staged SFT (Kannada fluency to physics reasoning) to deliver Feynman-style, concept-first explanations for local-language learning.
+  - Built an evaluation harness using LLM-as-judge scoring and integrated RAG grounding for more reliable answers. Published dataset and models on HuggingFace.
+  - [Kannada Physics Reasoning Dataset](https://huggingface.co/datasets/deepakkarkala/physics_reasoning_kannada), [Kannada General SFT Model](https://huggingface.co/deepakkarkala/gemma3-1b-sft-kannada-general), [Kannada Physics SFT Model](https://huggingface.co/deepakkarkala/gemma3-1b-sft-kannada-physics)
 
 
 ## [Building Agentic AI Products](agentic-ai-products/README.md)
@@ -58,6 +67,7 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 - [Technical Playbook - Building Effective Agentic AI Systems](agentic-ai-products/technical_playbook.md) - Production patterns for reliability, safety, evals, observability, and governance
 - [Agentic AI Product + Business Strategy Playbook](agentic-ai-products/product_business_playbook.md) - How to pick winning agent wedges, design adoption + distribution loops, price safely, and govern rollout
 - [Agentic Workflows Playbook: Skills x MCP x Context x Subagents](agentic-ai-products/agentic_workflows_skills_mcp_subagents.md) - Skills x MCP x Project Context x Subagents
+- [Evaluation of AI Agents](agentic-ai-products/evaluation-of-ai-agents.md)
 - [Domain-Specific Agentic RL (RFT) for measurable lift](agentic-ai-products/agentic_rl.md) - Agentic RL: optimize the whole workflow policy (think: tool calls + intermediate decisions + long-horizon strategy), not just response text.
 - [Context Engineering](agentic-ai-products/context_engineering_playbook.md) - A systems-first guide to keeping agent context small, relevant, reliable, and auditable.
 - Product Proposals
@@ -67,6 +77,21 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
   - [FMCG / Retail - "Margin & Inventory Operating System"](agentic-ai-products/flagship_product_proposals/retail/product_description.md) - ICP: retail ops, category managers, planners
   - [Wealth Management - "Supervised Wealth Planner Copilot"](agentic-ai-products/flagship_product_proposals/wealth/product_description.md) - Positioning: planning + scenario analysis + execution assistance, not "autonomous trading."
   - [Creative - "Writer's Room Copilot" (Script Writing)](agentic-ai-products/flagship_product_proposals/writer/product_description.md) - ICP: aspiring / professional screenwriters, showrunners, indie teams
+
+
+## [Agentic Coding](agentic-coding/README.md)
+- Claude Code Howto
+  - [Claude Code Features](agentic-coding/claude_code_howto/claude_code_features.md)
+  - [Claude Code Starter Kit](agentic-coding/claude_code_howto/claude_code_starter_kit.md)
+  - [Effective Claude Code](agentic-coding/claude_code_howto/effective_claude_code.md)
+
+- Claude Code Config
+  - [Everything Claude Code](agentic-coding/claude_code_config/everything_claude_code.md)
+  - [Oh-my-ClaudeCode](agentic-coding/claude_code_config/oh_my_claudecode.md)
+
+- [Claude Agent SDK](agentic-coding/claude_agent_sdk/claude_agent_sdk.md)
+
+- [How to build coding Agents](agentic-coding/how_to_build_coding_agents/how_to_build_coding_agents.md)
 
 
 ## [Illustrated Guides](illustrated-guides/README.md)
@@ -87,6 +112,33 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 
 
 ## About Me
+
+
+Senior ML Engineer with 6+ years of experience in ML/AI, shipping production ML systems that deliver measurable business impact across e-commerce and IoT.
+          
+For a mid-sized European e-commerce marketplace, I built 4 production ML systems:
+  - 5% conversion uplift via [real-time purchase intent scoring](past-experiences/ecom_purchase_propensity.md)
+  - 12% higher marketing ROI through [CLV prediction](past-experiences/ecom_customer_lifetime_value.md)
+  - 4% search-to-purchase improvement with [RAG-powered discovery](past-experiences/ecom_rag_product_catalog.md)
+  - 60% cost reduction in [LLM based review summarization](past-experiences/ecom_reviews_summarisation.md) with fine-tuned Mistral-7B
+
+          
+Earlier at eSMART Technologies, I built 2 IoT ML systems:
+  - 20% reduction in emergency maintenance callouts via [predictive maintenance](past-experiences/iot_anomaly.md)
+  - 10pp increase in solar self-consumption through [energy forecasting](past-experiences/iot_forecasting.md)
+          
+Led end-to-end ownership spanning the full MLOps lifecycle: evaluation frameworks (offline metrics, LLM-as-judge, CI/CD regression tests), production debugging (calibration breakdowns, alert fatigue), stakeholder management (legal governance, cross-functional experiments), and operational excellence (latency SLOs, drift monitoring, segment-wise reliability, A/B testing strategy). Delivered cost-bounded infrastructure while maintaining business impact.
+
+Recent GenAI based personal projects include fine-tuning Gemma models: an [AI Feynman style Kannada Physics Tutor](https://www.deepakkarkala/products/ai-feynman-kannada-tutor) and an [AI Scriptwriter (The Office)](https://www.deepakkarkala/products/ai-scriptwriter), both published on Hugging Face with custom reasoning datasets and evaluation harnesses.
+
+I also built a prototype [Agentic MLOps](projects/agentic-mlops.md) platform: AI agents that auto-generate complete MLOps infrastructure from requirements to production-ready pipelines with database backed job queues, transparency, guardrails, governance and human-in-the-loop workflows.
+
+
+For [Building Agentic AI Products](agentic-ai-products/README.md), I have curated [technical strategies]((agentic-ai-products/technical_playbook.md)) on reliability, safety, evals, observability, and governance; [business strategies](agentic-ai-products/product_business_playbook.md) on wedge selection, adoption/distribution loops, pricing, and rollout; plus guides on [agent evaluation](agentic-ai-products/evaluation-of-ai-agents.md), [agentic RL workflow](agentic-ai-products/agentic_rl.md), policy optimization, [context engineering](agentic-ai-products/context_engineering_playbook.md), and [product proposal](agentic-ai-products/flagship_product_proposals/) templates. The [Playbooks](playbooks/README.md) section distills field-tested patterns and decision frameworks from production systems.
+
+
+Academic background: MS Communication Systems (EPFL, Grade 5.25/6.0), BE Electronics (RVCE, CGPA 9.23/10.0). Prior work includes research at IISc ([Medical Physics publication](https://aapm.onlinelibrary.wiley.com/doi/10.1118/1.4736820)), signal processing at Signalchip ([1 US patent](https://patents.google.com/patent/US9602240B1/en?oq=9602240)), and ML research at NEC Labs America.
+
 
 <table style="border: none;">
 <tr>
@@ -110,26 +162,24 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 </table>
 
 - **<a href="past-experiences/ecom_rag_product_catalog.md">RAG-Powered Search & Discovery</a>**
-  - Built a production-grade RAG system that improved search-to-purchase conversion by 4% and reduced "no results" by 30%
-  - Sub-500ms p99 latency
+  - Led feasibility and production design for **hybrid retrieval (BM25 + dense vectors)**, re-ranking, defining online KPIs, latency/error SLOs, and implemented versioning and guardrails to keep performance predictable.
+  - Built an evaluation "quality gauntlet" (offline retrieval metrics, regression tests in CI/CD, load-tested capacity envelopes, canary/rollback), including a scalable approach to create a **golden dataset** for ranking evaluation.
+  - Delivered **sub-500ms p99 latency** at **EUR 0.015/query**, improving **search-to-purchase by 4%** and reducing “no results” by 30% via multilingual semantic matching and controlled re-ranking. 
   - [View Details](past-experiences/ecom_rag_product_catalog.md)
 - **<a href="past-experiences/ecom_customer_lifetime_value.md">Customer Lifetime Value (CLV) Prediction</a>**
-  - Built a production CLV prediction system that improved marketing ROI by 12% through value-based customer targeting and segmentation
-  - 12% higher marketing ROI on CLV-driven campaigns
-  - 10% relative reduction in churn among high-value cohorts
+  - Built segmented CLV models (early-stage vs established) with robust baselines and ranking-focused evaluation; improved marketing ROI by 12% through value-based customer targeting and segmentation
+  - Improved **RMSE by 15-20%** and **Gini 0.47 to 0.62** to support budget-constrained CRM targeting.
+  - Shipped a weekly, production batch pipeline (**300K+ customer profiles**) with orchestration, model registry, data quality checks, and segment-level monitoring to reduce regressions and support safe iteration.
   - [View Details](past-experiences/ecom_customer_lifetime_value.md)
 - **<a href="past-experiences/ecom_purchase_propensity.md">Real-Time Purchase Intent Scoring</a>**
-  - Deployed a session-level purchase propensity model achieving 5% conversion uplift with 40% reduction in p99 latency through Redis optimization
-  - 5% relative uplift in overall conversion rate
-  - 3.5% uplift in AOV among users with model-driven offers
-  - 40% reduction in p99 inference latency through Redis optimization
-  - Real-time feature engineering with Spark Structured Streaming
+  - Deployed sub-second session-level purchase propensity model serving **60K+ daily predictions** using Feast (offline/online parity) + ElastiCache; optimized feature fetch path to achieve **40% p99 latency reduction**.
+  - Engineered **Spark Structured Streaming** feature pipeline processing **50K+ events/hour** with session state, checkpointing, and bounded state management; ensured training/serving consistency.
+  - Trained **class-weighted LightGBM** for **20:1 class imbalance** with calibration + thresholding aligned to business actions
+  - Supported A/B-Tested personalization that drove **+5% conversion uplift**.
   - [View Details](past-experiences/ecom_purchase_propensity.md)
 - **<a href="past-experiences/ecom_reviews_summarisation.md">LLM Generated Review Summaries</a>**
-  - Implemented automated review summarisation using LLMs to surface key insights and sentiment for shoppers
-  - Automated summarisation of product reviews
-  - Extracted key sentiment and feature insights
-  - Improved product page engagement
+  - Fine-tuned **Mistral-7B (LoRA)** on **100K+ reviews** and productionized structured summarization to reduce cost **60% vs GPT-4 baseline** while maintaining quality.
+  - Designed a batch RAG summarization pipeline with metadata-aware retrieval and automated quality checks (**hallucination/toxicity/relevance**), plus monitoring for reliability and governance.
   - [View Details](past-experiences/ecom_reviews_summarisation.md)
 
 <table style="border: none;">
@@ -154,16 +204,13 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 </table>
 
 - **<a href="past-experiences/iot_anomaly.md">IoT Predictive Maintenance & Heating System Anomaly Detection</a>**
-  - Built an anomaly detection system that reduced emergency maintenance callouts by 20% through early fault detection
-  - Estimated 15-20% improvement in maintenance efficiency
-  - 75% precision@50 for high-priority alerts
-  - Human-in-the-loop validation workflow
+  - Deployed anomaly detection + alert triage for heating systems; reduced emergency maintenance callouts by **20%**. 
+  - Evolved approach from unsupervised (residuals + LOF) to supervised as labels grew via technician human-in-the-loop validation; achieved **75% precision\@50** for high-priority alerts.
+  - Built dashboards to reduce alert fatigue and improve adoption.
   - [View Details](past-experiences/iot_anomaly.md)
 - **<a href="past-experiences/iot_forecasting.md">Building-Level Energy Forecasting & Smart Energy Advisor</a>**
-  - Developed time-series forecasting models for building energy optimization and smart heating schedules
-  - <10% MAPE across seasonal variations
-  - ~15% increase in user engagement with energy tools
-  - ~10pp increase in solar self-consumption among participating households
+  - Delivered 24h-ahead energy demand forecasting (XGBoost + weather, lag, rolling windows, holiday features) powering resident-facing recommendations; achieved **\<10% MAPE** and **10 percentage points** increase in solar self-consumption among participating households.
+  - Implemented walk-forward validation and baselines (ARIMA/Prophet/seasonal naive), drift/error monitoring; tracked degradation over time with automated reporting.
   - [View Details](past-experiences/iot_forecasting.md)
 
 <table style="border: none;">
@@ -180,7 +227,7 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 </td>
 <td align="right" style="border: none;">
 
-**Sep 2015 - May 2018**<br/>
+**Aug 2015 - May 2018**<br/>
 *Lausanne, Switzerland*
 
 </td>
@@ -213,9 +260,13 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 </tr>
 </table>
 
-- Fine-tuned YOLOv2 for custom object detection in traffic surveillance datasets
-- Developed relationship detector for scene understanding using deep learning
-- Applied transfer learning techniques for domain-specific object detection
+- Traffic Surveillance Object Detection
+  - Fine-tuned YOLOv2 for tandem motorbike detection in traffic surveillance video
+  - Tuned anchor boxes/heads with targeted augmentation to surface candidate "tandem near pedestrian" incident windows for human review
+- Scene Understanding (Visual Relationship Detection)
+  - Built PyTorch relationship detector with scene graph outputs (subject-predicate-object)
+  - Engineered spatial features and explored graph/message-passing + translation embedding formulations
+  - Improved predicate classification robustness for downstream incident reasoning
 - [View Details](past-experiences/nec.md)
 
 <table style="border: none;">
@@ -232,7 +283,7 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 </td>
 <td align="right" style="border: none;">
 
-**Mar 2012 - May 2015**<br/>
+**Feb 2012 - May 2015**<br/>
 *Bangalore, India*
 
 </td>
@@ -240,8 +291,8 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 </table>
 
 - Joined as 5th employee of semiconductor startup, contributing to core signal processing algorithms
-- Patent: Developed symbol level interference cancellation method (US Patent 9602240)
-- Patent: Developed optimized channel estimation system reducing computational complexity (US Patent 20160365991)
+- Patent: Developed symbol level interference cancellation method ([US Patent 9602240](https://patents.google.com/patent/US9602240B1/en?oq=9602240))
+- Patent: Developed optimized channel estimation system reducing computational complexity ([US Patent 20160365991](https://patents.google.com/patent/US20160365991A1/en?oq=20160365991))
 - Implemented Path Searcher, Rake Receiver and Multi-user Detection algorithms for WCDMA
 - Developed PRACH signal detection algorithms for LTE systems
 - [View Details](past-experiences/signalchip.md)
@@ -260,17 +311,18 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 </td>
 <td align="right" style="border: none;">
 
-**Jun 2011 - Feb 2012**<br/>
+**Jun 2011 - Jan 2012**<br/>
 *Bangalore, India*
 
 </td>
 </tr>
 </table>
 
-- Published first-author paper in Medical Physics journal
-- Developed data-resolution matrix based optimization method for diffuse optical tomography
-- Reduced data collection time by identifying independent measurements without compromising image quality
-- Implemented efficient algorithms achieving 20% higher independent measurements than traditional methods
+- Conducted research on diffuse optical tomography at IISc Bangalore.
+- Published first-author paper in [Medical Physics journal](https://aapm.onlinelibrary.wiley.com/doi/10.1118/1.4736820): Data-resolution based optimization of the data-collection strategy for near infrared diffuse optical tomography.
+  - Developed a data-resolution matrix method (from the sensitivity/Jacobian model + regularization) to identify independent measurements
+  - Used diagonal vs. off-diagonal structure to select informative measurements and reduce data-collection time
+  - Achieved ~20% more independent measurements than singular-value selection while preserving reconstruction quality
 - [View Details](past-experiences/iisc.md)
 
 <table style="border: none;">
@@ -287,7 +339,7 @@ Senior Machine Learning Engineer with 5+ years delivering production ML at reaso
 </td>
 <td align="right" style="border: none;">
 
-**Aug 2007 - May 2011**<br/>
+**Aug 2007 - Jun 2011**<br/>
 *Bangalore, India*
 
 </td>
