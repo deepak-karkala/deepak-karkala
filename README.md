@@ -1,6 +1,6 @@
 # Deepak Karkala
 
-Senior ML Engineer with 6+ years of experience in ML/AI (2018-present), shipping production ML systems delivering measurable business impact across e-commerce and IoT (12% higher marketing ROI, 5% conversion uplift, 4% search-to-purchase improvement, 20% reduction in maintenance callouts). Experience across the full ML lifecycle - problem framing, feature engineering, training, pipelines, evaluation, deployment and monitoring. Specialized in cost-effective, moderate-scale MLOps with minimal infrastructure footprint. Hands-on work in GenAI, Agentic AI, and multi-agent systems. Holder of 1 granted US patent.
+Senior ML Engineer with 6+ years of experience in ML/AI (2018-present), shipping production ML systems delivering measurable business impact across e-commerce and IoT (12% higher marketing ROI, 5% conversion uplift, 4% search-to-purchase improvement). <!--, 20% reduction in maintenance callouts).--> Experience across the full ML lifecycle - problem framing, feature engineering, training, pipelines, evaluation, deployment and monitoring. Specialized in cost-effective, moderate-scale MLOps with minimal infrastructure footprint. Hands-on work in GenAI, Agentic AI, and multi-agent systems. Holder of 1 granted US patent.
 
 
 ## Contact
@@ -122,11 +122,14 @@ For a mid-sized European e-commerce marketplace, I built 4 production ML systems
   - 4% search-to-purchase improvement with [RAG-powered discovery](past-experiences/ecom_rag_product_catalog.md)
   - 60% cost reduction in [LLM based review summarization](past-experiences/ecom_reviews_summarisation.md) with fine-tuned Mistral-7B
 
-          
+<!--    
 Earlier at eSMART Technologies, I built 2 IoT ML systems:
   - 20% reduction in emergency maintenance callouts via [predictive maintenance](past-experiences/iot_anomaly.md)
   - 10pp increase in solar self-consumption through [energy forecasting](past-experiences/iot_forecasting.md)
-          
+-->
+
+Earlier at [eSMART Technologies](https://myesmart.com/en/), I built end-to-end IoT ML systems for smart building operations. Built anomaly detection models for predictive maintenance spanning data quality checks, evaluation, monitoring, and scheduled retraining.          
+
 Led end-to-end ownership spanning the full MLOps lifecycle: evaluation frameworks (offline metrics, LLM-as-judge, CI/CD regression tests), production debugging (calibration breakdowns, alert fatigue), stakeholder management (legal governance, cross-functional experiments), and operational excellence (latency SLOs, drift monitoring, segment-wise reliability, A/B testing strategy). Delivered cost-bounded infrastructure while maintaining business impact.
 
 Recent GenAI based personal projects include fine-tuning Gemma models: an [AI Feynman style Kannada Physics Tutor](https://www.deepakkarkala/products/ai-feynman-kannada-tutor) and an [AI Scriptwriter (The Office)](https://www.deepakkarkala/products/ai-scriptwriter), both published on Hugging Face with custom reasoning datasets and evaluation harnesses.
@@ -199,22 +202,27 @@ Academic background: MS Communication Systems (EPFL, Grade 5.25/6.0), BE Electro
 </td>
 <td align="right" style="border: none;">
 
-**Jun 2018 - Dec 2020**<br/>
+**Jun 2018 - Dec 2019**<br/>
 *Remote*
 
 </td>
 </tr>
 </table>
 
-- **<a href="past-experiences/iot_anomaly.md">IoT Predictive Maintenance & Heating System Anomaly Detection</a>**
-  - Deployed anomaly detection + alert triage for heating systems; reduced emergency maintenance callouts by **20%**. 
+<!--- **<a href="past-experiences/iot_anomaly.md">IoT Predictive Maintenance & Heating System Anomaly Detection</a>**-->
+- **IoT Predictive Maintenance & Heating System Anomaly Detection**
+  - Deployed anomaly detection + alert triage for heating systems. <!--; reduced emergency maintenance callouts by **20%**.--> 
   - Evolved approach from unsupervised (residuals + LOF) to supervised as labels grew via technician human-in-the-loop validation; achieved **75% precision\@50** for high-priority alerts.
   - Built dashboards to reduce alert fatigue and improve adoption.
+  <!--
   - [View Details](past-experiences/iot_anomaly.md)
+  -->
+<!--
 - **<a href="past-experiences/iot_forecasting.md">Building-Level Energy Forecasting & Smart Energy Advisor</a>**
   - Delivered 24h-ahead energy demand forecasting (XGBoost + weather, lag, rolling windows, holiday features) powering resident-facing recommendations; achieved **\<10% MAPE** and **10 percentage points** increase in solar self-consumption among participating households.
   - Implemented walk-forward validation and baselines (ARIMA/Prophet/seasonal naive), drift/error monitoring; tracked degradation over time with automated reporting.
   - [View Details](past-experiences/iot_forecasting.md)
+-->
 
 <table style="border: none;">
 <tr>
