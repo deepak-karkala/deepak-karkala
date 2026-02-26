@@ -202,7 +202,7 @@ Academic background: MS Communication Systems (EPFL, Grade 5.25/6.0), BE Electro
 </td>
 <td align="right" style="border: none;">
 
-**Jun 2018 - Dec 2019**<br/>
+**Jun 2018 - Dec 2020**<br/>
 *Remote*
 
 </td>
