@@ -6,7 +6,7 @@
 
 Senior ML Engineer and Founding AI Engineer at Vavi Labs with 6+ years of experience in ML/AI (2018-present), shipping production ML systems delivering measurable business impact across e-commerce and IoT (12% higher marketing ROI, 5% conversion uplift, 4% search-to-purchase improvement, 20% reduction in maintenance callouts).
 
-At [Vavi Labs](https://www.vavilabs.com/), building Arbiter for build-time governance of architectural decisions, BatSwing for  computer-vision based cricket coaching reports, Creative Collab OS for creative AI workflows with better judgement, AI/ML interview preparation platform, Agentic-AI plugins for coding agents.
+At [Vavi Labs](https://www.vavilabs.com/), building Arbiter for build-time governance of architectural decisions, BatSwing for computer-vision based cricket coaching reports, Creative Collab OS for creative AI workflows with better judgement, Canonic for creative AI verification, Founder OS for solo-founder operating workflows, AI/ML interview preparation platform, and Agentic-AI plugins for coding agents.
 
 Experience across the full ML lifecycle - problem framing, feature engineering, training, pipelines, evaluation, deployment and monitoring. Specialized in cost-effective, moderate-scale MLOps with minimal infrastructure footprint. I've shipped systems across multiple domains—supervised learning, time series forecasting, anomaly detection, NLP/GenAI (RAG, LLM fine-tuning). Holder of 1 granted US patent.
 
@@ -33,6 +33,8 @@ Experience across the full ML lifecycle - problem framing, feature engineering, 
 
 Building AI-native products, vertical workflow apps, creative AI tools, dev tools, fine-tuned models, corporate training material, and technical education for engineers and production AI teams.
 
+- **[Canonic](https://canonic.vavilabs.com/):** Creative AI verification layer for labs and apps, with task environments, scoring rubrics, human-validated judges, reward-hacking probes, public leaderboards, and reference profiles.
+- **[Founder OS](https://founderos.vavilabs.com/):** Operating system for solo makers and small-business founders, starting with Business Reports and recurring WhatsApp Ops Digests that turn business context into actionable loops.
 - **[Arbiter](https://vavilabs.com/products/arbiter/):** Beta CLI-first decision-intelligence platform for engineering teams. Scores architecture choices using GitHub/Jira/PagerDuty context, tenant-isolated audit trails, deterministic + LLM confidence scoring, and Slack review workflows.
 - **[BatSwing](https://batswing.vavilabs.com/):** PWA + computer-vision cricket coaching product for one-phone side-on batting capture, MediaPipe-based pose/phase analysis, WhatsApp-ready academy reports, and consent-aware player media handling; currently processing a few dozen reports weekly from one academy while tuning the pipeline.
 - **[Creative Collab OS](https://creativecollab.vavilabs.com/):** Beta creative AI studio for stand-up, songs, comics, sitcoms, and memes using workflow graphs, direction checkpoints, taste-memory profiles, streaming outputs, and multimodal artifact generation.
